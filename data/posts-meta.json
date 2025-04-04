@@ -1,0 +1,197 @@
+[
+  {
+    "slug": "post-010-common-sdge-residential-tou-rates",
+    "title": "Common SDGE Residential TOU Rates",
+    "description": "List of RINs commonly found within San Diego county, including distribution by San Diego Gas & Electric (SDGE) and the 3 local CCAs.",
+    "date": "2024-09-25",
+    "author": "EB",
+    "tags": [
+      "Rates",
+      "SDGE",
+      "RIN"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/mykwhnow_qr.svg"
+  },
+  {
+    "slug": "post-009-how-to-compare-rates-using-my-electric-green-data",
+    "title": "How to Compare Rates Using My Electric Green Data?",
+    "description": "Struggling to choose the right electricity plan in California? Discover how MyKWhNow.com's compare tool can simplify your decision-making by letting you easily compare the costs of two plans side by side using your actual electricity usage data.",
+    "date": "2024-09-05",
+    "author": "EB",
+    "tags": [
+      "Bill",
+      "GreenData",
+      "Help"
+    ],
+    "duration": "6 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/009/tipping-scale.jpeg"
+  },
+  {
+    "slug": "post-008-help-me-find-my-RIN",
+    "title": "Help me find my RIN",
+    "description": "Your latest electricity bills provide QR code(s) to identify your RIN(s). Whether you're with a traditional provider or a CCA, discover what your RIN reveals about your energy usage.",
+    "date": "2024-09-04",
+    "author": "EB",
+    "tags": [
+      "Billing",
+      "RIN",
+      "Help"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/mykwhnow_qr.svg"
+  },
+  {
+    "slug": "post-007-how-to-use-our-dashboard",
+    "title": "How to Use MyKWhNow's Dashboard?",
+    "description": "Discover how MyKWhNow.com simplifies tracking your electricity costs with easy steps tailored for California residents. Whether you know your RIN or need guidance, our platform has you covered!",
+    "date": "2024-09-02",
+    "author": "EB",
+    "tags": [
+      "Bill",
+      "Help"
+    ],
+    "duration": "6 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/007/mykwhnow-dashboard-on-laptop.jpeg"
+  },
+  {
+    "slug": "post-011-common-ladwp-residential-tou-rates",
+    "title": "Common LADWP Residential TOU Rates",
+    "description": "List of RINs commonly found within Los Angeles Department of Water & Power (LADWP) operating area.",
+    "date": "2024-08-24",
+    "author": "EB",
+    "tags": [
+      "Rates",
+      "LADWP",
+      "RIN"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/mykwhnow_qr.svg"
+  },
+  {
+    "slug": "post-013-common-sce-residential-tou-rates",
+    "title": "Common SCE Residential TOU Rates",
+    "description": "List of RINs commonly found within Southern California Edison (SCE) operating area and its respective CCAs.",
+    "date": "2024-08-23",
+    "author": "EB",
+    "tags": [
+      "Rates",
+      "SCE",
+      "RIN"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/mykwhnow_qr.svg"
+  },
+  {
+    "slug": "post-012-common-pge-residential-tou-rates",
+    "title": "Common PGE Residential TOU Rates",
+    "description": "List of RINs commonly found within Pacific Gas and Electric (PG&E) operating area and its respective CCAs.",
+    "date": "2024-08-22",
+    "author": "EB",
+    "tags": [
+      "Rates",
+      "PGE",
+      "RIN"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/mykwhnow_qr.svg"
+  },
+  {
+    "slug": "post-001-understand-electric-rates-in-san-diego",
+    "title": "Understanding Your Electric Rates in San Diego County",
+    "description": "As a San Diego resident, you've likely noticed some variation in your monthly electric bill charges and rates depending on your electricity provider. Here is how to navigate them.",
+    "date": "2024-08-01",
+    "author": "EB",
+    "tags": [
+      "SDGE",
+      "CEA",
+      "SDCP",
+      "San Diego",
+      "Bill",
+      "Help"
+    ],
+    "duration": "2 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/train-san-diego.jfif"
+  },
+  {
+    "slug": "post-003-community-choice-aggregation-for-electricity-generation",
+    "title": "Community Choice Aggregation (CCA) for Electricity Generation in California and Beyond",
+    "description": "Community Choice Aggregation (CCA) programs allow local governments to purchase and generate electricity, often from renewable sources, giving consumers an alternative to incumbent utilities. While originating in California, CCA programs have been adopted in several other states, providing local control over electricity sources, promoting renewable energy, and introducing competition in the electricity market.",
+    "date": "2024-07-17",
+    "author": "EB",
+    "tags": [
+      "CCA",
+      "Generation"
+    ],
+    "duration": "5 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/cca-windmills-solar-roofs.jfif"
+  },
+  {
+    "slug": "post-006-how-to-download-my-green-data-from-myeneregycenter",
+    "title": "How to Download Your Green Data?",
+    "description": "Learn how to easily download and analyze your energy usage from your energy provider with our step-by-step guide. Whether you're looking to save on costs or just curious about your consumption, this quick tutorial will walk you through everything you need to know. Get started now and take control of your energy future!",
+    "date": "2024-06-24",
+    "author": "EB",
+    "tags": [
+      "San Diego",
+      "Bill",
+      "GreenData"
+    ],
+    "duration": "5 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/006/download-my-green-data.jpeg"
+  },
+  {
+    "slug": "post-004-california-climate-credit-helping-fight-climate-change",
+    "title": "The California Climate Credit: Helping Fight Climate Change",
+    "description": "The California Climate Credit is one of several initiatives implemented by the state to meet its ambitious goals for reducing greenhouse gas emissions and promoting a more sustainable energy future.",
+    "date": "2024-05-11",
+    "author": "EB",
+    "tags": [
+      "California",
+      "Credit"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/bear-100.jfif"
+  },
+  {
+    "slug": "post-002-understand-your-sdge-bill",
+    "title": "How to read your SDG&E bill",
+    "description": "Your SDG&E bill provides a snapshot of your electricity use and costs every month. It's easier to track and control your energy costs once you know where to look. Here is a sample bill to point you in the right direction.",
+    "date": "2024-04-19",
+    "author": "EB",
+    "tags": [
+      "SDGE",
+      "Billing",
+      "Help"
+    ],
+    "duration": "3 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/man-looking-at-laptop.jfif"
+  },
+  {
+    "slug": "post-005-conservative-energy-guide-on-appliances",
+    "title": "Are the Yellow Stickers overly conservative?",
+    "description": "In San Diego, the price per kWh of $0.424, as reported in March 2024 by FRED (Federal Reserve Economic Data) is significantly higher than the national average of $0.14/kWh used on the energy guide.",
+    "date": "2024-04-10",
+    "author": "EB",
+    "tags": [
+      "San Diego",
+      "Bill",
+      "Prices"
+    ],
+    "duration": "5 minutes read",
+    "favorited": true,
+    "coverUrl": "/content/images/refrigerator-user-guide-review.jfif"
+  }
+]

@@ -2,7 +2,7 @@
 title: "Common LADWP Residential TOU Rates"
 description: "List of RINs commonly found within Los Angeles Department of Water & Power (LADWP) operating area."
 date: "2024-08-24"
-author: "MyKWhNow"
+author: "EB"
 tags: ["Rates", "LADWP", "RIN"]
 duration: "3 minutes read"
 favorited: true

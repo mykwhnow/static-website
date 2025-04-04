@@ -2,7 +2,7 @@
 title: "Common SCE Residential TOU Rates"
 description: "List of RINs commonly found within Southern California Edison (SCE) operating area and its respective CCAs."
 date: "2024-08-23"
-author: "MyKWhNow"
+author: "EB"
 tags: ["Rates", "SCE", "RIN"]
 duration: "3 minutes read"
 favorited: true

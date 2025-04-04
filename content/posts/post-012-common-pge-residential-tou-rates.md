@@ -2,7 +2,7 @@
 title: "Common PGE Residential TOU Rates"
 description: "List of RINs commonly found within Pacific Gas and Electric (PG&E) operating area and its respective CCAs."
 date: "2024-08-22"
-author: "MyKWhNow"
+author: "EB"
 tags: ["Rates", "PGE", "RIN"]
 duration: "3 minutes read"
 favorited: true

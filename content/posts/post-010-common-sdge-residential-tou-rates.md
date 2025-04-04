@@ -2,7 +2,7 @@
 title: "Common SDGE Residential TOU Rates"
 description: "List of RINs commonly found within San Diego county, including distribution by San Diego Gas & Electric (SDGE) and the 3 local CCAs."
 date: "2024-09-25"
-author: "MyKWhNow"
+author: "EB"
 tags: ["Rates", "SDGE", "RIN"]
 duration: "3 minutes read"
 favorited: true

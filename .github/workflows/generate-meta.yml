@@ -1,0 +1,38 @@
+name: Generate Post Metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/posts/**.md'
+      - 'scripts/generateMeta.js'
+  workflow_dispatch:
+
+jobs:
+  generate-meta:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install gray-matter fs-extra
+
+      - name: Generate metadata JSON
+        run: node scripts/generateMeta.js
+
+      - name: Commit and push metadata file
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/posts-meta.json
+          git diff --cached --quiet || git commit -m "Update post metadata [auto]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
