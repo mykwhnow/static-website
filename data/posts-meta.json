@@ -11,7 +11,7 @@
       "RIN"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/mykwhnow_qr.svg"
   },
   {
@@ -26,7 +26,7 @@
       "Help"
     ],
     "duration": "6 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/009/tipping-scale.jpeg"
   },
   {
@@ -41,7 +41,7 @@
       "Help"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/mykwhnow_qr.svg"
   },
   {
@@ -55,7 +55,7 @@
       "Help"
     ],
     "duration": "6 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/007/mykwhnow-dashboard-on-laptop.jpeg"
   },
   {
@@ -70,7 +70,7 @@
       "RIN"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/mykwhnow_qr.svg"
   },
   {
@@ -85,7 +85,7 @@
       "RIN"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/mykwhnow_qr.svg"
   },
   {
@@ -100,7 +100,7 @@
       "RIN"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/mykwhnow_qr.svg"
   },
   {
@@ -132,7 +132,7 @@
       "Generation"
     ],
     "duration": "5 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/cca-windmills-solar-roofs.jfif"
   },
   {
@@ -147,7 +147,7 @@
       "GreenData"
     ],
     "duration": "5 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/006/download-my-green-data.jpeg"
   },
   {
@@ -161,7 +161,7 @@
       "Credit"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/bear-100.jfif"
   },
   {
@@ -176,7 +176,7 @@
       "Help"
     ],
     "duration": "3 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/man-looking-at-laptop.jfif"
   },
   {
@@ -191,7 +191,7 @@
       "Prices"
     ],
     "duration": "5 minutes read",
-    "favorited": true,
+    "live": true,
     "coverUrl": "/content/images/refrigerator-user-guide-review.jfif"
   }
 ]
