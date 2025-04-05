@@ -5,7 +5,7 @@ date: "2024-08-01"
 author: "EB"
 tags: ["SDGE", "CEA", "SDCP", "San Diego", "Bill", "Help"]
 duration: "2 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/train-san-diego.jfif"
 ---
 
