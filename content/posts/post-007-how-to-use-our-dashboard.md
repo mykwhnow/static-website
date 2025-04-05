@@ -5,7 +5,7 @@ date: "2024-09-02"
 author: "EB"
 tags: ["Bill", "Help"]
 duration: "6 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/007/mykwhnow-dashboard-on-laptop.jpeg"
 ---
 

@@ -5,7 +5,7 @@ date: "2024-09-04"
 author: "EB"
 tags: ["Billing", "RIN", "Help"]
 duration: "3 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
 ---
 

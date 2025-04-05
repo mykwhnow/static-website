@@ -5,7 +5,7 @@ date: "2024-09-05"
 author: "EB"
 tags: ["Bill", "GreenData", "Help"]
 duration: "6 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/009/tipping-scale.jpeg"
 ---
 

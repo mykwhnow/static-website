@@ -5,7 +5,7 @@ date: "2024-05-11"
 author: "EB"
 tags: ["California", "Credit"]
 duration: "3 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/bear-100.jfif"
 ---
 

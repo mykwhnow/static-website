@@ -5,7 +5,7 @@ date: "2024-06-24"
 author: "EB"
 tags: ["San Diego", "Bill", "GreenData"]
 duration: "5 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/006/download-my-green-data.jpeg"
 ---
 

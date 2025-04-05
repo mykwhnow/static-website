@@ -5,7 +5,7 @@ date: "2024-09-25"
 author: "EB"
 tags: ["Rates", "SDGE", "RIN"]
 duration: "3 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
 ---
 

@@ -5,7 +5,7 @@ date: "2024-04-19"
 author: "EB"
 tags: ["SDGE", "Billing", "Help"]
 duration: "3 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/man-looking-at-laptop.jfif"
 ---
 

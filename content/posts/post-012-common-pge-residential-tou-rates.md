@@ -5,7 +5,7 @@ date: "2024-08-22"
 author: "EB"
 tags: ["Rates", "PGE", "RIN"]
 duration: "3 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
 ---
 

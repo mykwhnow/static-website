@@ -5,7 +5,7 @@ date: "2024-04-10"
 author: "EB"
 tags: ["San Diego", "Bill", "Prices"]
 duration: "5 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/refrigerator-user-guide-review.jfif"
 ---
 

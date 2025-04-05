@@ -5,7 +5,7 @@ date: "2024-07-17"
 author: "EB"
 tags: ["CCA", "Generation"]
 duration: "5 minutes read"
-favorited: true
+live: true
 coverUrl: "/content/images/cca-windmills-solar-roofs.jfif"
 ---
 
