@@ -1,4 +1,3 @@
-# Privacy Policy
 Privacy Policy for mykwhnow.com
 Last updated: 7/31/2024
 

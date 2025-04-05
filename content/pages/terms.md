@@ -1,4 +1,3 @@
-# Terms and Conditions
 Welcome to mykwhnow.com. By accessing or using our website, mobile applications, or any services provided by Mykwhnow (collectively, the "Service"), you agree to be bound by these Terms and Conditions ("Terms") and our Privacy Policy. If you do not agree to these Terms, please do not use the Service.
 
 ## 1. User Accounts

@@ -9,7 +9,7 @@ live: true
 coverUrl: "/content/images/refrigerator-user-guide-review.jfif"
 ---
 
-### What is on the Energy Guide?
+## What is on the Energy Guide?
 
 The energy guide found on new appliances in stores serves the purpose of providing consumers with an estimate of the annual energy consumption and operating costs associated with that particular appliance model. This guide is mandated by the Federal Trade Commission (FTC) for certain types of appliances, such as refrigerators, dishwashers, washing machines, and others.
 
@@ -25,7 +25,7 @@ The purpose of this guide is to help consumers make informed decisions when purc
 
 However, it's important to note that the actual operating costs for an appliance can vary significantly depending on the electricity rates in a specific location. The national average rate of 14 cents per kWh used on the energy guide is just a reference point, and it may not accurately reflect the actual costs in certain areas.
 
-### Electricity costs in San Diego are well above the national average
+## Electricity costs in San Diego are well above the national average
 
 In the case of San Diego, the March 2024 price per kWh of $0.424, as reported by [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/series/APUS49E72610), is significantly higher than the national average used on the energy guide. This means that the estimated annual operating costs displayed on the energy guide will likely be lower than the actual costs a consumer in San Diego would incur when using that appliance.
 

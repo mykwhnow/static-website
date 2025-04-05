@@ -11,13 +11,13 @@ coverUrl: "/content/images/007/mykwhnow-dashboard-on-laptop.jpeg"
 
 The primary purpose of MyKWhNow.com and its main dashboard is to help you find your current electricity cost with just a few clicks. Whether you are trying to better understand your energy expenses or looking for ways to save, MyKWhNow.com provides a simple and effective way to access the information you need.
 
-### Getting Started: Do You Know Your RIN?
+## Getting Started: Do You Know Your RIN?
 
 If you're a California resident, you're in luck! MyKWhNow.com is designed to cater to your specific needs. However, if you reside outside California, we encourage you to join our mailing list to stay informed about the latest developments.
 
 There are 2 ways to use the dashboard, either with RINs or without:
 
-### You know your RIN:
+## You know your RIN:
 
 If you already know your RIN (Rate Identification Number), which is a 19-character code identifying your rate, you can easily select it from the dropdown menu.
 
@@ -33,11 +33,11 @@ Here's an example of how your current electricity cost would look with a classic
 
 [![toudr-sdge-cea](/content/images/007/20240902-toudr-sdge-cea.png)](/dashboard/?RinEnergy=USCA-XXEA-0166-0000&RinDistribution=USCA-SDXX-0001-0000)
 
-### You do not know your RIN? No Problem!
+## You do not know your RIN? No Problem!
 
 If you don't know your RIN, you can still use MyKWhNow.com to find your electricity cost. Here's how:
 
-### Energy Distribution:
+## Energy Distribution:
 
 Identify your Electricity distributor. California has 5 main electricity Regions:
 
@@ -49,11 +49,11 @@ Identify your Electricity distributor. California has 5 main electricity Regions
 
 Then find your rate using your electricity bill. You can also refer to [this article](/blog/post-001-understand-electric-rates-in-san-diego) to help you read your electricity bill.
 
-### CCA - Energy Production
+## CCA - Energy Production
 
 If your electricity is produced by a different entity than its distributor, MyKWhNow.com can handle that for you. Learn more about [CCAs](/blog/post-003-community-choice-aggregation-for-electricity-generation/) and how it affects your energy distribution.
 
-### Examples of large CCAs:
+## Examples of large CCAs:
 
 - Clean Power Alliance (CPA) - Los Angeles, Ventura
 - Peninsula Clean Energy (PCE) - San Mateo, parts of Santa Clara
@@ -69,6 +69,6 @@ Once you've identified your CCA, simply select your energy distributor on the le
 
 ![toud-pge-clean-power-sf](/content/images/007/20240902-toud-pge-clean-power-sf.png)
 
-### Need Help?
+## Need Help?
 
 If you have any comments or questions, don't hesitate to [contact us](/contact/). We're here to help you make sense of your electricity costs and find ways to save! 
