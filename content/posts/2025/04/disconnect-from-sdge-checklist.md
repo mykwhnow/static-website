@@ -5,7 +5,7 @@ date: "2025-04-12"
 author: "EB"
 tags: ["Rates", "SDGE", "Solar", "Grid", "Disconnect"]
 duration: "8 minutes read"
-live: false
+live: true
 coverUrl: "/content/images/2025/04/disconnect-from-electric-grid.jpeg"
 ---
 
@@ -35,6 +35,8 @@ Look for:
 - **Inverter + charge controller**: For safe DC/AC conversion and charging
 - **Backup generator**: A must-have for cloudy weeks, maintenance periods, or emergencies
 
+![layout](/content/images/2025/04/house-solar-battery-diagram.png)
+
 ### 4. Plan for Redundancy — Don’t Rely on a Single Point of Failure
 
 Going off-grid is more like running a **miniature utility company** than just installing solar panels. Like in aviation, where **airplanes have 2 or 3 backup systems** for every critical function, your energy system should have **layers of redundancy**:
@@ -44,6 +46,8 @@ Going off-grid is more like running a **miniature utility company** than just in
 - Use **locally sourced equipment** when possible to avoid shipping delays
 
 > Imagine your inverter dies in July — and the replacement part is a European-manufactured unit with a 3-week lead time due to customs. How long can your household run without power?
+
+![redundancy](/content/images/2025/04/redundancy.png)
 
 Being truly off-grid means planning for the unexpected — not just the sunny days.
 
