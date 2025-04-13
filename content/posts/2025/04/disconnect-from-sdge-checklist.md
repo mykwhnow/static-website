@@ -1,6 +1,6 @@
 ---
 title: "Thinking About Going Off-Grid in San Diego? Here’s Your Complete Checklist"
-description: "Whether you're driven by rising rates, a desire for energy independence, or frustration with changing utility policies, living 'off the grid' is a bold move — and one that requires careful planning. If you're a customer of **San Diego Gas & Electric (SDG&E)**, here’s a complete checklist to guide your journey."
+description: "Whether you're driven by rising rates, a desire for energy independence, or frustration with changing utility policies, living 'off the grid' is a bold move — and one that requires careful planning. If you're a customer of San Diego Gas & Electric (SDG&E), here’s a complete checklist to guide your journey."
 date: "2025-04-12"
 author: "EB"
 tags: ["Rates", "SDGE", "Solar", "Grid", "Disconnect"]
@@ -16,8 +16,6 @@ coverUrl: "/content/images/2025/04/disconnect-from-electric-grid.jpeg"
 - Review any **legal requirements** or restrictions from your city or county — not all areas allow full disconnection.
 - Expect **paperwork, final inspections, and potential fees** (like meter removal or reconnection charges if you change your mind).
 
----
-
 ### 2. Calculate Your Energy Needs
 
 Before you design your system, you need to understand your actual energy usage. Instead of guessing or digging through bills:
@@ -31,15 +29,11 @@ Look for:
 - **Peak load hours** (e.g., when AC kicks in)
 - **Seasonal variation** (especially in summer vs. winter)
 
----
-
 ### 3. Design Your Independent Power System
 - **Solar panels**: Primary generation source for Southern California
 - **Battery storage**: Cover nights and cloudy days (plan for multiple days of autonomy)
 - **Inverter + charge controller**: For safe DC/AC conversion and charging
 - **Backup generator**: A must-have for cloudy weeks, maintenance periods, or emergencies
-
----
 
 ### 4. Plan for Redundancy — Don’t Rely on a Single Point of Failure
 
@@ -53,8 +47,6 @@ Going off-grid is more like running a **miniature utility company** than just in
 
 Being truly off-grid means planning for the unexpected — not just the sunny days.
 
----
-
 ### 5. Boost Energy Efficiency
 - Upgrade to **Energy Star appliances**
 - Use **LED lighting**, **smart thermostats**, and **timer-controlled loads**
@@ -62,20 +54,14 @@ Being truly off-grid means planning for the unexpected — not just the sunny da
 
 The less energy you need, the smaller and more affordable your off-grid system can be.
 
----
-
 ### 6. Permits & Inspections
 - Apply for **electrical permits** for your off-grid system
 - Confirm **zoning compliance** for battery or solar installations
 - Schedule final **inspections** before grid disconnection
 
----
-
 ### 7. Disconnect From the Grid
 - Work with SDG&E to safely **remove your meter and connection**
 - Ensure you're compliant with **local building, fire, and utility codes**
-
----
 
 ### 8. Monitor and Maintain
 - Use smart tools to monitor **solar generation, battery health, and usage**
@@ -84,8 +70,6 @@ The less energy you need, the smaller and more affordable your off-grid system c
   - **Checking cables and terminals**
   - **Running backup generators monthly**
 - Track seasonal shifts and adjust accordingly
-
----
 
 ## 💰 Financial Considerations
 
@@ -100,14 +84,10 @@ The less energy you need, the smaller and more affordable your off-grid system c
 - **You are 100% responsible for uptime**  
   If a key part fails — like your **inverter** — you're out of power until it’s replaced. In aviation, redundancy is a rule: _two is one, one is none._ Apply that logic to your power system.
 
----
-
 ### ✅ What You Avoid
 
 - **No more non-bypassable charges**  
   Even with solar, SDG&E customers must pay **non-bypassable charges** — fixed fees that apply even when using your own solar power. Going off-grid frees you from these charges entirely.
-
----
 
 ## ⚖️ Not Ready to Go All-In?
 
