@@ -116,7 +116,7 @@ Full disconnection isn’t the only path. Many households opt for a **hybrid set
 - Grid as a backup
 - Potential for net metering and climate credit retention
 
-Explore real-time TOU pricing across CA counties using our [Live Rates Map](https://mykwhnow.com/tools/california-rates) — and see how SDG&E compares.
+Explore real-time TOU pricing across CA counties using our [Dashboard](https://mykwhnow.com/tools/dashboard) — and see how SDG&E compares.
 
 ---
 
