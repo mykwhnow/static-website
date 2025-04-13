@@ -35,7 +35,7 @@ Look for:
 - **Inverter + charge controller**: For safe DC/AC conversion and charging
 - **Backup generator**: A must-have for cloudy weeks, maintenance periods, or emergencies
 
-![layout](/content/images/2025/04/house-solar-battery-diagram.png)
+![layout](/content/images/2025/04/house-solar-battery-diagram.jpg)
 
 ### 4. Plan for Redundancy — Don’t Rely on a Single Point of Failure
 
@@ -47,7 +47,7 @@ Going off-grid is more like running a **miniature utility company** than just in
 
 > Imagine your inverter dies in July — and the replacement part is a European-manufactured unit with a 3-week lead time due to customs. How long can your household run without power?
 
-![redundancy](/content/images/2025/04/redundancy.png)
+![redundancy](/content/images/2025/04/redundancy.jpg)
 
 Being truly off-grid means planning for the unexpected — not just the sunny days.
 
