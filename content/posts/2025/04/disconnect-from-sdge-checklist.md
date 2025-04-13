@@ -5,7 +5,7 @@ date: "2025-04-12"
 author: "EB"
 tags: ["Rates", "SDGE", "Solar", "Grid", "Disconnect"]
 duration: "8 minutes read"
-live: true
+live: false
 coverUrl: "/content/images/2025/04/disconnect-from-electric-grid.jpeg"
 ---
 
