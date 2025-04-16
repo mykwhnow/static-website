@@ -6,7 +6,7 @@ date: 2025-04-15
 tags: [TOU, California, Electricity, Holidays, SDG&E, PG&E, SCE, LADWP, SMUD, Liberty Utilities]
 duration: "2 minutes read"
 live: true
-coverUrl: "/content/images/elec-holiday-calendar.png"
+coverUrl: "/content/images/2025/04/elec-holiday-calendar.png"
 ---
 
 # Holidays Observed by California Electric Utilities for TOU Rate Schedules
