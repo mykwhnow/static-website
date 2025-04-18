@@ -6,7 +6,7 @@ author: "EB"
 tags: ["San Diego", "Bill", "Prices", "California", "Energy Guide", "Appliances"]
 duration: "5 minutes read"
 live: true
-coverUrl: "/content/images/energy-guide-14c-per-kWh-ca-map.png"
+coverUrl: "/content/images/2025/04/energy-guide-14c-per-kWh-ca-map.png"
 ---
 
 
