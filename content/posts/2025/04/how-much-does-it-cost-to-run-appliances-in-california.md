@@ -1,6 +1,6 @@
 ---
 title: "How Much Does It Really Cost to Run Appliances in California?"
-description: "How much does it *really* cost to run your appliances in California? It depends where you live. Here's a practical guide using real TOU rates from across the state — with San Diego as an example."
+description: "How much does it really cost to run your appliances in California? It depends where you live. Here's a practical guide using real TOU rates from across the state — with San Diego as an example."
 date: 2025-04-18
 author: "EB"
 tags: ["San Diego", "Bill", "Prices", "California", "Energy Guide", "Appliances"]
@@ -24,7 +24,6 @@ California’s electric market is divided across multiple utilities, each with t
 ![California TOU Map](https://github.com/mykwhnow/static-website/blob/main/content/images/2025/04/ca-map-rates-with-caption.png?raw=true)
 Use the map above, or visit [mykwhnow.com/tools/california-rates](https://mykwhnow.com/tools/california-rates), to explore **real-time rates** by county and provider.
 
----
 
 ## 🧮 Conservative Appliance Cost Estimates (at 14¢ per kWh)
 
@@ -56,7 +55,6 @@ You’ve probably seen the **yellow Energy Guide stickers** on appliances — th
 
 That means those guides **underestimate** costs in most parts of the state.
 
----
 
 ## 📍 San Diego as a Case Study
 
@@ -66,7 +64,6 @@ With that rate, using a standard clothes dryer (3kW) for just 1 hour can cost **
 
 For San Diego residents, shifting use to off-peak hours or investing in **solar + storage** can lead to substantial savings.
 
----
 
 ## 📌 Takeaways
 
@@ -75,6 +72,5 @@ For San Diego residents, shifting use to off-peak hours or investing in **solar 
 - Consider the **time of day** and your **location** when calculating appliance costs.
 - In high-cost areas like **San Diego**, efficiency and usage habits make a major impact on your bill.
 
----
 
 Need help analyzing your electric bill? Try the **[Dashboard Tool](https://mykwhnow.com/tools/dashboard)** to break down your usage by appliance and time.
