@@ -2,7 +2,7 @@
 title: "What Is This $159.60 Credit on My SDG&E True-Up Bill?"
 description: "If you’re seeing a $159.60 credit labeled 'Electric Meter Charges and Payments' on your SDG&E true-up bill, here’s what it is — and how the California Climate Credit works."
 author: "EB"
-date: 2025-05-15
+date: 2025-06-29
 coverUrl: "/content/images/bear-100.jfif"
 live: true
 tags: [SDG&E, Climate Credit, CPUC, True-Up, California Utilities, Billing]
