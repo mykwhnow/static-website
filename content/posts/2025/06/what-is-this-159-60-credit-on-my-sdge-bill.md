@@ -5,7 +5,7 @@ author: "EB"
 date: 2025-06-29
 coverUrl: "/content/images/2025/06/sdge-159.60-credit.png"
 live: true
-tags: [SDG&E, Climate Credit, CPUC, True-Up, California Utilities, Billing]
+tags: [SDG&E, Climate Credit, CPUC, True-Up, California Utilities, Billing, Help]
 ---
 
 # What Is This $159.60 Credit on My SDG&E True-Up Bill?
