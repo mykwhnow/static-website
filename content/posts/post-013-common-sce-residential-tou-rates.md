@@ -1,9 +1,9 @@
----
-title: "Common SCE Residential TOU Rates"
-description: "List of RINs commonly found within Southern California Edison (SCE) operating area and its respective CCAs."
-date: "2024-08-23"
+﻿---
+title: "Common SC Residential TOU Rates"
+description: "List of RINs commonly found within Southern California Edison (SC) operating area."
+date: "2026-02-09"
 author: "EB"
-tags: ["Rates", "SCE", "RIN"]
+tags: ["Rates", "SC", "RIN"]
 duration: "3 minutes read"
 live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
@@ -11,54 +11,1106 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 
 | Distribution | Energy | RIN | Name |
 |-------------|--------|-----|------|
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1099-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1099-0000&RinDistribution=USCA-XXCP-1099-0000) | TOU-D-A  CARE - 50%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1174-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1174-0000&RinDistribution=USCA-XXCP-1174-0000) | TOU-D-PRIME-PS-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1155-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1155-0000&RinDistribution=USCA-XXCP-1155-0000) | TOU-D-PRIME  50%-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1115-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1115-0000&RinDistribution=USCA-XXCP-1115-0000) | TOU-D-B  100% Default-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1049-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1049-0000&RinDistribution=USCA-XXCP-1049-0000) | TOU-D-5  100% Default-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1127-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1127-0000&RinDistribution=USCA-XXCP-1127-0000) | TOU-D-B  CARE - 36%-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-2738-0000](/tools/dashboard?RinEnergy=USCA-XXCP-2738-0000&RinDistribution=USCA-XXCP-2738-0000) | TOU-D-B  100% - CARE-2023 Vintage |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0692-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0692-0000&RinDistribution=USCA-XXCP-0692-0000) | TOU-D-A-C-PS |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0118-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0118-0000&RinDistribution=USCA-XXCP-0118-0000) | TOU-D-5-PS |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0679-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0679-0000&RinDistribution=USCA-XXCP-0679-0000) | TOU-D-B  CARE - 100% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3047-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3047-0000&RinDistribution=USCA-XXCP-3047-0000) | TOU-D-4  100% Default-2023 Vintage-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1062-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1062-0000&RinDistribution=USCA-XXCP-1062-0000) | TOU-D-5  CARE - 36%-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0104-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0104-0000&RinDistribution=USCA-XXCP-0104-0000) | TOU-D-4  CARE - 50% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1097-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1097-0000&RinDistribution=USCA-XXCP-1097-0000) | TOU-D-A  CARE - 50%-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3057-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3057-0000&RinDistribution=USCA-XXCP-3057-0000) | TOU-D-5  100% Default-2023 Vintage-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1100-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1100-0000&RinDistribution=USCA-XXCP-1100-0000) | TOU-D-A-C-PS-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1123-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1123-0000&RinDistribution=USCA-XXCP-1123-0000) | TOU-D-B  50%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1152-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1152-0000&RinDistribution=USCA-XXCP-1152-0000) | TOU-D-PRIME  36%-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0669-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0669-0000&RinDistribution=USCA-XXCP-0669-0000) | TOU-D-A  CARE - 100% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3076-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3076-0000&RinDistribution=USCA-XXCP-3076-0000) | TOU-D-A  50%-2023 Vintage-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3119-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3119-0000&RinDistribution=USCA-XXCP-3119-0000) | TOU-EV-1  36%-2023 Vintage-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1054-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1054-0000&RinDistribution=USCA-XXCP-1054-0000) | TOU-D-5  36%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3122-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3122-0000&RinDistribution=USCA-XXCP-3122-0000) | TOU-EV-1  50%-2023 Vintage-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3097-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3097-0000&RinDistribution=USCA-XXCP-3097-0000) | TOU-D-PRIME  36%-2023 Vintage-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3067-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3067-0000&RinDistribution=USCA-XXCP-3067-0000) | TOU-D-A  100% - CARE-2023 Vintage-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1168-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1168-0000&RinDistribution=USCA-XXCP-1168-0000) | TOU-D-PRIME-C-PS-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0115-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0115-0000&RinDistribution=USCA-XXCP-0115-0000) | TOU-D-5  CARE - 50% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1087-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1087-0000&RinDistribution=USCA-XXCP-1087-0000) | TOU-D-A  36%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3071-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3071-0000&RinDistribution=USCA-XXCP-3071-0000) | TOU-D-A  100% Default-2023 Vintage-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1081-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1081-0000&RinDistribution=USCA-XXCP-1081-0000) | TOU-D-A  100% - CARE-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1033-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1033-0000&RinDistribution=USCA-XXCP-1033-0000) | TOU-D-4  CARE - 50%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3081-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3081-0000&RinDistribution=USCA-XXCP-3081-0000) | TOU-D-B  100% Default-2023 Vintage-EEC_2023_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1036-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1036-0000&RinDistribution=USCA-XXCP-1036-0000) | TOU-D-4-C-PS-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0677-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0677-0000&RinDistribution=USCA-XXCP-0677-0000) | TOU-D-B  36% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-0101-0000](/tools/dashboard?RinEnergy=USCA-XXCP-0101-0000&RinDistribution=USCA-XXCP-0101-0000) | TOU-D-4  50% |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1053-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1053-0000&RinDistribution=USCA-XXCP-1053-0000) | TOU-D-5  36%-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-1159-0000](/tools/dashboard?RinEnergy=USCA-XXCP-1159-0000&RinDistribution=USCA-XXCP-1159-0000) | TOU-D-PRIME  CARE - 100%-EEC_2024_ALL_ALL |
-| Southern California Edison | Clean Power Alliance of Southern California | [USCA-XXCP-3074-0000](/tools/dashboard?RinEnergy=USCA-XXCP-3074-0000&RinDistribution=USCA-XXCP-3074-0000) | TOU-D-A  36%-2023 Vintage-EEC_UNLOCKED_ALL_ALL |
-| Southern California Edison | Orange County Power Authority | [USCA-XXOC-0019-0000](/tools/dashboard?RinEnergy=USCA-XXOC-0019-0000&RinDistribution=USCA-XXOC-0019-0000) | TOU-D-A |
-| Southern California Edison | Orange County Power Authority | [USCA-XXOC-0134-0000](/tools/dashboard?RinEnergy=USCA-XXOC-0134-0000&RinDistribution=USCA-XXOC-0134-0000) | TOU-D-T-100% Renewable Choice |
-| Southern California Edison | Orange County Power Authority | [USCA-XXOC-0133-0000](/tools/dashboard?RinEnergy=USCA-XXOC-0133-0000&RinDistribution=USCA-XXOC-0133-0000) | TOU-D-PRIME-Smart Choice |
-| Southern California Edison | Southern California Edison | [USCA-SCSC-0500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0500-0000&RinDistribution=USCA-SCSC-0500-0000) | TOU-D 5-8 PM |
-| Southern California Edison | Southern California Edison | [USCA-SCSC-0600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0600-0000&RinDistribution=USCA-SCSC-0600-0000) | TOU-D-PRIME |
-| Southern California Edison | Southern California Edison | [USCA-SCSC-0604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0604-0000&RinDistribution=USCA-SCSC-0604-0000) | TOU-D-PRIME-NBT 2024 Vintage |
-| Southern California Edison | Southern California Edison | [USCA-SCSC-0603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0603-0000&RinDistribution=USCA-SCSC-0603-0000) | TOU-D-PRIME-NBT 2023 Vintage |
-| Southern California Edison | Southern California Edison | [USCA-SCSC-0602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0602-0000&RinDistribution=USCA-SCSC-0602-0000) | TOU-D-PRIME-NBT Non-Vintaged |
-| Southern California Edison | Unspecified | [USCA-SCXX-0500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0500-0000&RinDistribution=USCA-SCXX-0500-0000) | TOU-D 5-8 PM |
-| Southern California Edison | Unspecified | [USCA-SCXX-0602-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0602-0000&RinDistribution=USCA-SCXX-0602-0000) | TOU-D-PRIME-NBT Non-Vintaged |
-| Southern California Edison | Unspecified | [USCA-SCXX-0600-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0600-0000&RinDistribution=USCA-SCXX-0600-0000) | TOU-D-PRIME |
-| Southern California Edison | Unspecified | [USCA-SCXX-0604-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0604-0000&RinDistribution=USCA-SCXX-0604-0000) | TOU-D-PRIME-NBT 2024 Vintage |
-| Southern California Edison | Unspecified | [USCA-SCXX-0603-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0603-0000&RinDistribution=USCA-SCXX-0603-0000) | TOU-D-PRIME-NBT 2023 Vintage | 
+| SC | SC | [USCA-SCSC-7405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7405-0000&RinDistribution=USCA-SCSC-7405-0000) | AL-2 OUTDOOR AREA LIGHTING(METERED, TOU)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-7405-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7405-0000&RinDistribution=USCA-SCXX-7405-0000) | AL-2 OUTDOOR AREA LIGHTING(METERED, TOU)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7406-0000&RinDistribution=USCA-SCSC-7406-0000) | AL-2 OUTDOOR AREA LIGHTING(METERED, TOU)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-7406-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7406-0000&RinDistribution=USCA-SCXX-7406-0000) | AL-2 OUTDOOR AREA LIGHTING(METERED, TOU)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7400-0000&RinDistribution=USCA-SCSC-7400-0000) | AL-2 Outdoor Area Lighting(Metered, TOU) |
+| SC | SC | [USCA-SCXX-7400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7400-0000&RinDistribution=USCA-SCXX-7400-0000) | AL-2 Outdoor Area Lighting(Metered, TOU) |
+| SC | SC | [USCA-SCSC-7403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7403-0000&RinDistribution=USCA-SCSC-7403-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-7403-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7403-0000&RinDistribution=USCA-SCXX-7403-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7404-0000&RinDistribution=USCA-SCSC-7404-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-7404-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7404-0000&RinDistribution=USCA-SCXX-7404-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-7402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7402-0000&RinDistribution=USCA-SCSC-7402-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-7402-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7402-0000&RinDistribution=USCA-SCXX-7402-0000) | AL-2 Outdoor Area Lighting(Metered, TOU)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3905-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3905-0000&RinDistribution=USCA-SCSC-3905-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-4005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4005-0000&RinDistribution=USCA-SCSC-4005-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-4105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4105-0000&RinDistribution=USCA-SCSC-4105-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3905-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3905-0000&RinDistribution=USCA-SCXX-3905-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-4005-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4005-0000&RinDistribution=USCA-SCXX-4005-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-4105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4105-0000&RinDistribution=USCA-SCXX-4105-0000) | GENERAL SERVICE - TOU-8-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3906-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3906-0000&RinDistribution=USCA-SCSC-3906-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-4006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4006-0000&RinDistribution=USCA-SCSC-4006-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-4106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4106-0000&RinDistribution=USCA-SCSC-4106-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3906-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3906-0000&RinDistribution=USCA-SCXX-3906-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-4006-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4006-0000&RinDistribution=USCA-SCXX-4006-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-4106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4106-0000&RinDistribution=USCA-SCXX-4106-0000) | GENERAL SERVICE - TOU-8-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1505-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1505-0000&RinDistribution=USCA-SCSC-1505-0000) | GENERAL SERVICE - TOU-EV-7-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1505-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1505-0000&RinDistribution=USCA-SCXX-1505-0000) | GENERAL SERVICE - TOU-EV-7-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1506-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1506-0000&RinDistribution=USCA-SCSC-1506-0000) | GENERAL SERVICE - TOU-EV-7-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1506-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1506-0000&RinDistribution=USCA-SCXX-1506-0000) | GENERAL SERVICE - TOU-EV-7-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1405-0000&RinDistribution=USCA-SCSC-1405-0000) | GENERAL SERVICE - TOU-EV-7-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1405-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1405-0000&RinDistribution=USCA-SCXX-1405-0000) | GENERAL SERVICE - TOU-EV-7-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1406-0000&RinDistribution=USCA-SCSC-1406-0000) | GENERAL SERVICE - TOU-EV-7-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1406-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1406-0000&RinDistribution=USCA-SCXX-1406-0000) | GENERAL SERVICE - TOU-EV-7-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1701-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1701-0000&RinDistribution=USCA-SCSC-1701-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-CPP |
+| SC | SC | [USCA-SCSC-1711-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1711-0000&RinDistribution=USCA-SCSC-1711-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1712-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1712-0000&RinDistribution=USCA-SCSC-1712-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1703-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1703-0000&RinDistribution=USCA-SCXX-1703-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-1705-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1705-0000&RinDistribution=USCA-SCSC-1705-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1705-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1705-0000&RinDistribution=USCA-SCXX-1705-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1706-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1706-0000&RinDistribution=USCA-SCSC-1706-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1706-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1706-0000&RinDistribution=USCA-SCXX-1706-0000) | GENERAL SERVICE - TOU-GS-2-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2300-0000&RinDistribution=USCA-SCXX-2300-0000) | GENERAL SERVICE - TOU-GS-3-B (GF) |
+| SC | SC | [USCA-SCSC-2311-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2311-0000&RinDistribution=USCA-SCSC-2311-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2312-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2312-0000&RinDistribution=USCA-SCSC-2312-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2308-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2308-0000&RinDistribution=USCA-SCSC-2308-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-2305-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2305-0000&RinDistribution=USCA-SCSC-2305-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2305-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2305-0000&RinDistribution=USCA-SCXX-2305-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2306-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2306-0000&RinDistribution=USCA-SCSC-2306-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2306-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2306-0000&RinDistribution=USCA-SCXX-2306-0000) | GENERAL SERVICE - TOU-GS-3-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0711-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0711-0000&RinDistribution=USCA-SCSC-0711-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0712-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0712-0000&RinDistribution=USCA-SCSC-0712-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0705-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0705-0000&RinDistribution=USCA-SCSC-0705-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-0705-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0705-0000&RinDistribution=USCA-SCXX-0705-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0706-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0706-0000&RinDistribution=USCA-SCSC-0706-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-0706-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0706-0000&RinDistribution=USCA-SCXX-0706-0000) | GS: TOU-GS-1-A (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0700-0000&RinDistribution=USCA-SCSC-0700-0000) | GS: TOU-GS-1-A (Grandfathered) |
+| SC | SC | [USCA-SCXX-0700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0700-0000&RinDistribution=USCA-SCXX-0700-0000) | GS: TOU-GS-1-A (Grandfathered) |
+| SC | SC | [USCA-SCSC-0701-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0701-0000&RinDistribution=USCA-SCSC-0701-0000) | GS: TOU-GS-1-A (Grandfathered)-CPP |
+| SC | SC | [USCA-SCSC-0709-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0709-0000&RinDistribution=USCA-SCSC-0709-0000) | GS: TOU-GS-1-A (Grandfathered)-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0710-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0710-0000&RinDistribution=USCA-SCSC-0710-0000) | GS: TOU-GS-1-A (Grandfathered)-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0708-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0708-0000&RinDistribution=USCA-SCSC-0708-0000) | GS: TOU-GS-1-A (Grandfathered)-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0703-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0703-0000&RinDistribution=USCA-SCSC-0703-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-0703-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0703-0000&RinDistribution=USCA-SCXX-0703-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0704-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0704-0000&RinDistribution=USCA-SCSC-0704-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-0704-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0704-0000&RinDistribution=USCA-SCXX-0704-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0702-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0702-0000&RinDistribution=USCA-SCSC-0702-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-0702-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0702-0000&RinDistribution=USCA-SCXX-0702-0000) | GS: TOU-GS-1-A (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1000-0000&RinDistribution=USCA-SCXX-1000-0000) | GS: TOU-GS-1-B (GRANDFATHERED) |
+| SC | SC | [USCA-SCXX-1004-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1004-0000&RinDistribution=USCA-SCXX-1004-0000) | GS: TOU-GS-1-B (GRANDFATHERED)-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-1005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1005-0000&RinDistribution=USCA-SCSC-1005-0000) | GS: TOU-GS-1-B (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1005-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1005-0000&RinDistribution=USCA-SCXX-1005-0000) | GS: TOU-GS-1-B (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1006-0000&RinDistribution=USCA-SCSC-1006-0000) | GS: TOU-GS-1-B (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1006-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1006-0000&RinDistribution=USCA-SCXX-1006-0000) | GS: TOU-GS-1-B (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1000-0000&RinDistribution=USCA-SCSC-1000-0000) | GS: TOU-GS-1-B (Grandfathered) |
+| SC | SC | [USCA-SCSC-1003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1003-0000&RinDistribution=USCA-SCSC-1003-0000) | GS: TOU-GS-1-B (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1003-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1003-0000&RinDistribution=USCA-SCXX-1003-0000) | GS: TOU-GS-1-B (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1004-0000&RinDistribution=USCA-SCSC-1004-0000) | GS: TOU-GS-1-B (Grandfathered)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1002-0000&RinDistribution=USCA-SCSC-1002-0000) | GS: TOU-GS-1-B (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1002-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1002-0000&RinDistribution=USCA-SCXX-1002-0000) | GS: TOU-GS-1-B (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1904-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1904-0000&RinDistribution=USCA-SCSC-1904-0000) | GS: TOU-GS-2-R (GRANDFATHERED)-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-1905-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1905-0000&RinDistribution=USCA-SCSC-1905-0000) | GS: TOU-GS-2-R (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1905-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1905-0000&RinDistribution=USCA-SCXX-1905-0000) | GS: TOU-GS-2-R (GRANDFATHERED)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1906-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1906-0000&RinDistribution=USCA-SCSC-1906-0000) | GS: TOU-GS-2-R (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1906-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1906-0000&RinDistribution=USCA-SCXX-1906-0000) | GS: TOU-GS-2-R (GRANDFATHERED)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1900-0000&RinDistribution=USCA-SCSC-1900-0000) | GS: TOU-GS-2-R (Grandfathered) |
+| SC | SC | [USCA-SCXX-1900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1900-0000&RinDistribution=USCA-SCXX-1900-0000) | GS: TOU-GS-2-R (Grandfathered) |
+| SC | SC | [USCA-SCSC-1903-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1903-0000&RinDistribution=USCA-SCSC-1903-0000) | GS: TOU-GS-2-R (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1903-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1903-0000&RinDistribution=USCA-SCXX-1903-0000) | GS: TOU-GS-2-R (Grandfathered)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1904-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1904-0000&RinDistribution=USCA-SCXX-1904-0000) | GS: TOU-GS-2-R (Grandfathered)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1902-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1902-0000&RinDistribution=USCA-SCSC-1902-0000) | GS: TOU-GS-2-R (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1902-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1902-0000&RinDistribution=USCA-SCXX-1902-0000) | GS: TOU-GS-2-R (Grandfathered)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3900-0000&RinDistribution=USCA-SCSC-3900-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCSC-4000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4000-0000&RinDistribution=USCA-SCSC-4000-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCSC-4100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4100-0000&RinDistribution=USCA-SCSC-4100-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCXX-3900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3900-0000&RinDistribution=USCA-SCXX-3900-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCXX-4000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4000-0000&RinDistribution=USCA-SCXX-4000-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCXX-4100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4100-0000&RinDistribution=USCA-SCXX-4100-0000) | General Service - TOU-8-R |
+| SC | SC | [USCA-SCSC-3903-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3903-0000&RinDistribution=USCA-SCSC-3903-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-4003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4003-0000&RinDistribution=USCA-SCSC-4003-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-4103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4103-0000&RinDistribution=USCA-SCSC-4103-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3903-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3903-0000&RinDistribution=USCA-SCXX-3903-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-4003-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4003-0000&RinDistribution=USCA-SCXX-4003-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-4103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4103-0000&RinDistribution=USCA-SCXX-4103-0000) | General Service - TOU-8-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3904-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3904-0000&RinDistribution=USCA-SCSC-3904-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-4004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4004-0000&RinDistribution=USCA-SCSC-4004-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-4104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4104-0000&RinDistribution=USCA-SCSC-4104-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3904-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3904-0000&RinDistribution=USCA-SCXX-3904-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-4004-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4004-0000&RinDistribution=USCA-SCXX-4004-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-4104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4104-0000&RinDistribution=USCA-SCXX-4104-0000) | General Service - TOU-8-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3902-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3902-0000&RinDistribution=USCA-SCSC-3902-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-4002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4002-0000&RinDistribution=USCA-SCSC-4002-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-4102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4102-0000&RinDistribution=USCA-SCSC-4102-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3902-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3902-0000&RinDistribution=USCA-SCXX-3902-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-4002-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4002-0000&RinDistribution=USCA-SCXX-4002-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-4102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4102-0000&RinDistribution=USCA-SCXX-4102-0000) | General Service - TOU-8-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1500-0000&RinDistribution=USCA-SCSC-1500-0000) | General Service - TOU-EV-7-D |
+| SC | SC | [USCA-SCXX-1500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1500-0000&RinDistribution=USCA-SCXX-1500-0000) | General Service - TOU-EV-7-D |
+| SC | SC | [USCA-SCSC-1503-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1503-0000&RinDistribution=USCA-SCSC-1503-0000) | General Service - TOU-EV-7-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1503-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1503-0000&RinDistribution=USCA-SCXX-1503-0000) | General Service - TOU-EV-7-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1504-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1504-0000&RinDistribution=USCA-SCSC-1504-0000) | General Service - TOU-EV-7-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-1504-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1504-0000&RinDistribution=USCA-SCXX-1504-0000) | General Service - TOU-EV-7-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1502-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1502-0000&RinDistribution=USCA-SCSC-1502-0000) | General Service - TOU-EV-7-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1502-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1502-0000&RinDistribution=USCA-SCXX-1502-0000) | General Service - TOU-EV-7-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1400-0000&RinDistribution=USCA-SCSC-1400-0000) | General Service - TOU-EV-7-E |
+| SC | SC | [USCA-SCXX-1400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1400-0000&RinDistribution=USCA-SCXX-1400-0000) | General Service - TOU-EV-7-E |
+| SC | SC | [USCA-SCSC-1403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1403-0000&RinDistribution=USCA-SCSC-1403-0000) | General Service - TOU-EV-7-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1403-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1403-0000&RinDistribution=USCA-SCXX-1403-0000) | General Service - TOU-EV-7-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1404-0000&RinDistribution=USCA-SCSC-1404-0000) | General Service - TOU-EV-7-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-1404-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1404-0000&RinDistribution=USCA-SCXX-1404-0000) | General Service - TOU-EV-7-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1402-0000&RinDistribution=USCA-SCSC-1402-0000) | General Service - TOU-EV-7-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1402-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1402-0000&RinDistribution=USCA-SCXX-1402-0000) | General Service - TOU-EV-7-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1200-0000&RinDistribution=USCA-SCSC-1200-0000) | General Service - TOU-GS-1-LG |
+| SC | SC | [USCA-SCXX-1200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1200-0000&RinDistribution=USCA-SCXX-1200-0000) | General Service - TOU-GS-1-LG |
+| SC | SC | [USCA-SCSC-1201-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1201-0000&RinDistribution=USCA-SCSC-1201-0000) | General Service - TOU-GS-1-LG-CPP |
+| SC | SC | [USCA-SCSC-1700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1700-0000&RinDistribution=USCA-SCSC-1700-0000) | General Service - TOU-GS-2-B (GF) |
+| SC | SC | [USCA-SCXX-1700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1700-0000&RinDistribution=USCA-SCXX-1700-0000) | General Service - TOU-GS-2-B (GF) |
+| SC | SC | [USCA-SCSC-1709-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1709-0000&RinDistribution=USCA-SCSC-1709-0000) | General Service - TOU-GS-2-B (GF)-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1710-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1710-0000&RinDistribution=USCA-SCSC-1710-0000) | General Service - TOU-GS-2-B (GF)-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1708-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1708-0000&RinDistribution=USCA-SCSC-1708-0000) | General Service - TOU-GS-2-B (GF)-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1703-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1703-0000&RinDistribution=USCA-SCSC-1703-0000) | General Service - TOU-GS-2-B (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1704-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1704-0000&RinDistribution=USCA-SCSC-1704-0000) | General Service - TOU-GS-2-B (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-1704-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1704-0000&RinDistribution=USCA-SCXX-1704-0000) | General Service - TOU-GS-2-B (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1702-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1702-0000&RinDistribution=USCA-SCSC-1702-0000) | General Service - TOU-GS-2-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1702-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1702-0000&RinDistribution=USCA-SCXX-1702-0000) | General Service - TOU-GS-2-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2300-0000&RinDistribution=USCA-SCSC-2300-0000) | General Service - TOU-GS-3-B (GF) |
+| SC | SC | [USCA-SCSC-2301-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2301-0000&RinDistribution=USCA-SCSC-2301-0000) | General Service - TOU-GS-3-B (GF)-CPP |
+| SC | SC | [USCA-SCSC-2309-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2309-0000&RinDistribution=USCA-SCSC-2309-0000) | General Service - TOU-GS-3-B (GF)-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2310-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2310-0000&RinDistribution=USCA-SCSC-2310-0000) | General Service - TOU-GS-3-B (GF)-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2303-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2303-0000&RinDistribution=USCA-SCSC-2303-0000) | General Service - TOU-GS-3-B (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2303-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2303-0000&RinDistribution=USCA-SCXX-2303-0000) | General Service - TOU-GS-3-B (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2304-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2304-0000&RinDistribution=USCA-SCSC-2304-0000) | General Service - TOU-GS-3-B (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2304-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2304-0000&RinDistribution=USCA-SCXX-2304-0000) | General Service - TOU-GS-3-B (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2302-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2302-0000&RinDistribution=USCA-SCSC-2302-0000) | General Service - TOU-GS-3-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2302-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2302-0000&RinDistribution=USCA-SCXX-2302-0000) | General Service - TOU-GS-3-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0200-0000&RinDistribution=USCA-SCSC-0200-0000) | TIME-OF-USE DOMESTIC OPTION A |
+| SC | SC | [USCA-SCXX-0200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0200-0000&RinDistribution=USCA-SCXX-0200-0000) | TIME-OF-USE DOMESTIC OPTION A |
+| SC | SC | [USCA-SCSC-0201-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0201-0000&RinDistribution=USCA-SCSC-0201-0000) | TIME-OF-USE DOMESTIC OPTION A-CPP |
+| SC | SC | [USCA-SCSC-0300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0300-0000&RinDistribution=USCA-SCSC-0300-0000) | TIME-OF-USE DOMESTIC OPTION B |
+| SC | SC | [USCA-SCXX-0300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0300-0000&RinDistribution=USCA-SCXX-0300-0000) | TIME-OF-USE DOMESTIC OPTION B |
+| SC | SC | [USCA-SCSC-0301-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0301-0000&RinDistribution=USCA-SCSC-0301-0000) | TIME-OF-USE DOMESTIC OPTION B-CPP |
+| SC | SC | [USCA-SCSC-0100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0100-0000&RinDistribution=USCA-SCSC-0100-0000) | TIME-OF-USE DOMESTIC TIERED |
+| SC | SC | [USCA-SCXX-0100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0100-0000&RinDistribution=USCA-SCXX-0100-0000) | TIME-OF-USE DOMESTIC TIERED |
+| SC | SC | [USCA-SCSC-0101-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0101-0000&RinDistribution=USCA-SCSC-0101-0000) | TIME-OF-USE DOMESTIC TIERED-CPP |
+| SC | SC | [USCA-SCSC-3701-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3701-0000&RinDistribution=USCA-SCSC-3701-0000) | TOU-8 OPTION B-CPP |
+| SC | SC | [USCA-SCSC-3801-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3801-0000&RinDistribution=USCA-SCSC-3801-0000) | TOU-8 OPTION B-CPP |
+| SC | SC | [USCA-SCSC-3611-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3611-0000&RinDistribution=USCA-SCSC-3611-0000) | TOU-8 OPTION B-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3711-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3711-0000&RinDistribution=USCA-SCSC-3711-0000) | TOU-8 OPTION B-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3811-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3811-0000&RinDistribution=USCA-SCSC-3811-0000) | TOU-8 OPTION B-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3612-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3612-0000&RinDistribution=USCA-SCSC-3612-0000) | TOU-8 OPTION B-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3712-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3712-0000&RinDistribution=USCA-SCSC-3712-0000) | TOU-8 OPTION B-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3812-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3812-0000&RinDistribution=USCA-SCSC-3812-0000) | TOU-8 OPTION B-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3704-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3704-0000&RinDistribution=USCA-SCXX-3704-0000) | TOU-8 OPTION B-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-3605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3605-0000&RinDistribution=USCA-SCSC-3605-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3705-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3705-0000&RinDistribution=USCA-SCSC-3705-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3805-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3805-0000&RinDistribution=USCA-SCSC-3805-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3605-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3605-0000&RinDistribution=USCA-SCXX-3605-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3705-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3705-0000&RinDistribution=USCA-SCXX-3705-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3805-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3805-0000&RinDistribution=USCA-SCXX-3805-0000) | TOU-8 OPTION B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3606-0000&RinDistribution=USCA-SCSC-3606-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3706-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3706-0000&RinDistribution=USCA-SCSC-3706-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3806-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3806-0000&RinDistribution=USCA-SCSC-3806-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3606-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3606-0000&RinDistribution=USCA-SCXX-3606-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3706-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3706-0000&RinDistribution=USCA-SCXX-3706-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3806-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3806-0000&RinDistribution=USCA-SCXX-3806-0000) | TOU-8 OPTION B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3802-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3802-0000&RinDistribution=USCA-SCSC-3802-0000) | TOU-8 OPTION B-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-3702-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3702-0000&RinDistribution=USCA-SCXX-3702-0000) | TOU-8 OPTION B-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-5100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5100-0000&RinDistribution=USCA-SCSC-5100-0000) | TOU-8 OPTION D, STANDBY |
+| SC | SC | [USCA-SCXX-5200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-5200-0000&RinDistribution=USCA-SCXX-5200-0000) | TOU-8 OPTION D, STANDBY |
+| SC | SC | [USCA-SCSC-3600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3600-0000&RinDistribution=USCA-SCSC-3600-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCSC-3700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3700-0000&RinDistribution=USCA-SCSC-3700-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCSC-3800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3800-0000&RinDistribution=USCA-SCSC-3800-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCXX-3600-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3600-0000&RinDistribution=USCA-SCXX-3600-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCXX-3700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3700-0000&RinDistribution=USCA-SCXX-3700-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCXX-3800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3800-0000&RinDistribution=USCA-SCXX-3800-0000) | TOU-8 Option B |
+| SC | SC | [USCA-SCSC-4800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4800-0000&RinDistribution=USCA-SCSC-4800-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCSC-4900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4900-0000&RinDistribution=USCA-SCSC-4900-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCSC-5000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5000-0000&RinDistribution=USCA-SCSC-5000-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCXX-4800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4800-0000&RinDistribution=USCA-SCXX-4800-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCXX-4900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4900-0000&RinDistribution=USCA-SCXX-4900-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCXX-5000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-5000-0000&RinDistribution=USCA-SCXX-5000-0000) | TOU-8 Option B, STANDBY |
+| SC | SC | [USCA-SCSC-3601-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3601-0000&RinDistribution=USCA-SCSC-3601-0000) | TOU-8 Option B-CPP |
+| SC | SC | [USCA-SCSC-3609-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3609-0000&RinDistribution=USCA-SCSC-3609-0000) | TOU-8 Option B-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3709-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3709-0000&RinDistribution=USCA-SCSC-3709-0000) | TOU-8 Option B-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3809-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3809-0000&RinDistribution=USCA-SCSC-3809-0000) | TOU-8 Option B-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3610-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3610-0000&RinDistribution=USCA-SCSC-3610-0000) | TOU-8 Option B-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3710-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3710-0000&RinDistribution=USCA-SCSC-3710-0000) | TOU-8 Option B-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3810-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3810-0000&RinDistribution=USCA-SCSC-3810-0000) | TOU-8 Option B-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3608-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3608-0000&RinDistribution=USCA-SCSC-3608-0000) | TOU-8 Option B-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3708-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3708-0000&RinDistribution=USCA-SCSC-3708-0000) | TOU-8 Option B-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3808-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3808-0000&RinDistribution=USCA-SCSC-3808-0000) | TOU-8 Option B-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3603-0000&RinDistribution=USCA-SCSC-3603-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3703-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3703-0000&RinDistribution=USCA-SCSC-3703-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3803-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3803-0000&RinDistribution=USCA-SCSC-3803-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3603-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3603-0000&RinDistribution=USCA-SCXX-3603-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3703-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3703-0000&RinDistribution=USCA-SCXX-3703-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3803-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3803-0000&RinDistribution=USCA-SCXX-3803-0000) | TOU-8 Option B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3604-0000&RinDistribution=USCA-SCSC-3604-0000) | TOU-8 Option B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3704-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3704-0000&RinDistribution=USCA-SCSC-3704-0000) | TOU-8 Option B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3804-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3804-0000&RinDistribution=USCA-SCSC-3804-0000) | TOU-8 Option B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3604-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3604-0000&RinDistribution=USCA-SCXX-3604-0000) | TOU-8 Option B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3804-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3804-0000&RinDistribution=USCA-SCXX-3804-0000) | TOU-8 Option B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3602-0000&RinDistribution=USCA-SCSC-3602-0000) | TOU-8 Option B-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3702-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3702-0000&RinDistribution=USCA-SCSC-3702-0000) | TOU-8 Option B-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3602-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3602-0000&RinDistribution=USCA-SCXX-3602-0000) | TOU-8 Option B-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3802-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3802-0000&RinDistribution=USCA-SCXX-3802-0000) | TOU-8 Option B-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-5200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5200-0000&RinDistribution=USCA-SCSC-5200-0000) | TOU-8 Option D, STANDBY |
+| SC | SC | [USCA-SCSC-5300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5300-0000&RinDistribution=USCA-SCSC-5300-0000) | TOU-8 Option D, STANDBY |
+| SC | SC | [USCA-SCXX-5100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-5100-0000&RinDistribution=USCA-SCXX-5100-0000) | TOU-8 Option D, STANDBY |
+| SC | SC | [USCA-SCXX-5300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-5300-0000&RinDistribution=USCA-SCXX-5300-0000) | TOU-8 Option D, STANDBY |
+| SC | SC | [USCA-SCSC-4200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4200-0000&RinDistribution=USCA-SCSC-4200-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCSC-4300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4300-0000&RinDistribution=USCA-SCSC-4300-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCSC-4400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4400-0000&RinDistribution=USCA-SCSC-4400-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCXX-4200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4200-0000&RinDistribution=USCA-SCXX-4200-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCXX-4300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4300-0000&RinDistribution=USCA-SCXX-4300-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCXX-4400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4400-0000&RinDistribution=USCA-SCXX-4400-0000) | TOU-8-A, STANDBY |
+| SC | SC | [USCA-SCSC-4201-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4201-0000&RinDistribution=USCA-SCSC-4201-0000) | TOU-8-A, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-4301-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4301-0000&RinDistribution=USCA-SCSC-4301-0000) | TOU-8-A, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-4401-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4401-0000&RinDistribution=USCA-SCSC-4401-0000) | TOU-8-A, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-3300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3300-0000&RinDistribution=USCA-SCSC-3300-0000) | TOU-8-D |
+| SC | SC | [USCA-SCSC-3400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3400-0000&RinDistribution=USCA-SCSC-3400-0000) | TOU-8-D |
+| SC | SC | [USCA-SCSC-3500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3500-0000&RinDistribution=USCA-SCSC-3500-0000) | TOU-8-D |
+| SC | SC | [USCA-SCXX-3300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3300-0000&RinDistribution=USCA-SCXX-3300-0000) | TOU-8-D |
+| SC | SC | [USCA-SCXX-3400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3400-0000&RinDistribution=USCA-SCXX-3400-0000) | TOU-8-D |
+| SC | SC | [USCA-SCXX-3500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3500-0000&RinDistribution=USCA-SCXX-3500-0000) | TOU-8-D |
+| SC | SC | [USCA-SCSC-3301-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3301-0000&RinDistribution=USCA-SCSC-3301-0000) | TOU-8-D-CPP |
+| SC | SC | [USCA-SCSC-3401-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3401-0000&RinDistribution=USCA-SCSC-3401-0000) | TOU-8-D-CPP |
+| SC | SC | [USCA-SCSC-3501-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3501-0000&RinDistribution=USCA-SCSC-3501-0000) | TOU-8-D-CPP |
+| SC | SC | [USCA-SCSC-3309-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3309-0000&RinDistribution=USCA-SCSC-3309-0000) | TOU-8-D-CPP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-3409-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3409-0000&RinDistribution=USCA-SCSC-3409-0000) | TOU-8-D-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3509-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3509-0000&RinDistribution=USCA-SCSC-3509-0000) | TOU-8-D-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3310-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3310-0000&RinDistribution=USCA-SCSC-3310-0000) | TOU-8-D-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3410-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3410-0000&RinDistribution=USCA-SCSC-3410-0000) | TOU-8-D-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3510-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3510-0000&RinDistribution=USCA-SCSC-3510-0000) | TOU-8-D-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3311-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3311-0000&RinDistribution=USCA-SCSC-3311-0000) | TOU-8-D-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3411-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3411-0000&RinDistribution=USCA-SCSC-3411-0000) | TOU-8-D-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3511-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3511-0000&RinDistribution=USCA-SCSC-3511-0000) | TOU-8-D-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3312-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3312-0000&RinDistribution=USCA-SCSC-3312-0000) | TOU-8-D-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3412-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3412-0000&RinDistribution=USCA-SCSC-3412-0000) | TOU-8-D-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3512-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3512-0000&RinDistribution=USCA-SCSC-3512-0000) | TOU-8-D-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3308-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3308-0000&RinDistribution=USCA-SCSC-3308-0000) | TOU-8-D-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-3408-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3408-0000&RinDistribution=USCA-SCSC-3408-0000) | TOU-8-D-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3508-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3508-0000&RinDistribution=USCA-SCSC-3508-0000) | TOU-8-D-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3403-0000&RinDistribution=USCA-SCSC-3403-0000) | TOU-8-D-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCXX-3403-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3403-0000&RinDistribution=USCA-SCXX-3403-0000) | TOU-8-D-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-3303-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3303-0000&RinDistribution=USCA-SCSC-3303-0000) | TOU-8-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3503-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3503-0000&RinDistribution=USCA-SCSC-3503-0000) | TOU-8-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3303-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3303-0000&RinDistribution=USCA-SCXX-3303-0000) | TOU-8-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3503-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3503-0000&RinDistribution=USCA-SCXX-3503-0000) | TOU-8-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3304-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3304-0000&RinDistribution=USCA-SCSC-3304-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3404-0000&RinDistribution=USCA-SCSC-3404-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3504-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3504-0000&RinDistribution=USCA-SCSC-3504-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3304-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3304-0000&RinDistribution=USCA-SCXX-3304-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3404-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3404-0000&RinDistribution=USCA-SCXX-3404-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3504-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3504-0000&RinDistribution=USCA-SCXX-3504-0000) | TOU-8-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3305-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3305-0000&RinDistribution=USCA-SCSC-3305-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3405-0000&RinDistribution=USCA-SCSC-3405-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3505-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3505-0000&RinDistribution=USCA-SCSC-3505-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3305-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3305-0000&RinDistribution=USCA-SCXX-3305-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3405-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3405-0000&RinDistribution=USCA-SCXX-3405-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3505-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3505-0000&RinDistribution=USCA-SCXX-3505-0000) | TOU-8-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3306-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3306-0000&RinDistribution=USCA-SCSC-3306-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3406-0000&RinDistribution=USCA-SCSC-3406-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3506-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3506-0000&RinDistribution=USCA-SCSC-3506-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3306-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3306-0000&RinDistribution=USCA-SCXX-3306-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3406-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3406-0000&RinDistribution=USCA-SCXX-3406-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3506-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3506-0000&RinDistribution=USCA-SCXX-3506-0000) | TOU-8-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3302-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3302-0000&RinDistribution=USCA-SCSC-3302-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3402-0000&RinDistribution=USCA-SCSC-3402-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3502-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3502-0000&RinDistribution=USCA-SCSC-3502-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3302-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3302-0000&RinDistribution=USCA-SCXX-3302-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3402-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3402-0000&RinDistribution=USCA-SCXX-3402-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3502-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3502-0000&RinDistribution=USCA-SCXX-3502-0000) | TOU-8-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-5400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5400-0000&RinDistribution=USCA-SCSC-5400-0000) | TOU-8-D-RTP |
+| SC | SC | [USCA-SCSC-5500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5500-0000&RinDistribution=USCA-SCSC-5500-0000) | TOU-8-D-RTP |
+| SC | SC | [USCA-SCSC-5600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5600-0000&RinDistribution=USCA-SCSC-5600-0000) | TOU-8-D-RTP |
+| SC | SC | [USCA-SCSC-5700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5700-0000&RinDistribution=USCA-SCSC-5700-0000) | TOU-8-D-RTP, STANDBY |
+| SC | SC | [USCA-SCSC-5800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5800-0000&RinDistribution=USCA-SCSC-5800-0000) | TOU-8-D-RTP, STANDBY |
+| SC | SC | [USCA-SCSC-5900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5900-0000&RinDistribution=USCA-SCSC-5900-0000) | TOU-8-D-RTP, STANDBY |
+| SC | SC | [USCA-SCSC-5403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5403-0000&RinDistribution=USCA-SCSC-5403-0000) | TOU-8-D-RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-5503-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5503-0000&RinDistribution=USCA-SCSC-5503-0000) | TOU-8-D-RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-5603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5603-0000&RinDistribution=USCA-SCSC-5603-0000) | TOU-8-D-RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-5404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5404-0000&RinDistribution=USCA-SCSC-5404-0000) | TOU-8-D-RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-5504-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5504-0000&RinDistribution=USCA-SCSC-5504-0000) | TOU-8-D-RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-5604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5604-0000&RinDistribution=USCA-SCSC-5604-0000) | TOU-8-D-RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-5405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5405-0000&RinDistribution=USCA-SCSC-5405-0000) | TOU-8-D-RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-5505-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5505-0000&RinDistribution=USCA-SCSC-5505-0000) | TOU-8-D-RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-5605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5605-0000&RinDistribution=USCA-SCSC-5605-0000) | TOU-8-D-RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-5406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5406-0000&RinDistribution=USCA-SCSC-5406-0000) | TOU-8-D-RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-5506-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5506-0000&RinDistribution=USCA-SCSC-5506-0000) | TOU-8-D-RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-5606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5606-0000&RinDistribution=USCA-SCSC-5606-0000) | TOU-8-D-RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-5402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5402-0000&RinDistribution=USCA-SCSC-5402-0000) | TOU-8-D-RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-5502-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5502-0000&RinDistribution=USCA-SCSC-5502-0000) | TOU-8-D-RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-5602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-5602-0000&RinDistribution=USCA-SCSC-5602-0000) | TOU-8-D-RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-3000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3000-0000&RinDistribution=USCA-SCSC-3000-0000) | TOU-8-E |
+| SC | SC | [USCA-SCSC-3100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3100-0000&RinDistribution=USCA-SCSC-3100-0000) | TOU-8-E |
+| SC | SC | [USCA-SCSC-3200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3200-0000&RinDistribution=USCA-SCSC-3200-0000) | TOU-8-E |
+| SC | SC | [USCA-SCXX-3000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3000-0000&RinDistribution=USCA-SCXX-3000-0000) | TOU-8-E |
+| SC | SC | [USCA-SCXX-3100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3100-0000&RinDistribution=USCA-SCXX-3100-0000) | TOU-8-E |
+| SC | SC | [USCA-SCXX-3200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3200-0000&RinDistribution=USCA-SCXX-3200-0000) | TOU-8-E |
+| SC | SC | [USCA-SCSC-3203-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3203-0000&RinDistribution=USCA-SCSC-3203-0000) | TOU-8-E-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-3003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3003-0000&RinDistribution=USCA-SCSC-3003-0000) | TOU-8-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3103-0000&RinDistribution=USCA-SCSC-3103-0000) | TOU-8-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3003-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3003-0000&RinDistribution=USCA-SCXX-3003-0000) | TOU-8-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3103-0000&RinDistribution=USCA-SCXX-3103-0000) | TOU-8-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-3203-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3203-0000&RinDistribution=USCA-SCXX-3203-0000) | TOU-8-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-3004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3004-0000&RinDistribution=USCA-SCSC-3004-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3104-0000&RinDistribution=USCA-SCSC-3104-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3204-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3204-0000&RinDistribution=USCA-SCSC-3204-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3004-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3004-0000&RinDistribution=USCA-SCXX-3004-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3104-0000&RinDistribution=USCA-SCXX-3104-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-3204-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3204-0000&RinDistribution=USCA-SCXX-3204-0000) | TOU-8-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-3005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3005-0000&RinDistribution=USCA-SCSC-3005-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3105-0000&RinDistribution=USCA-SCSC-3105-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3205-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3205-0000&RinDistribution=USCA-SCSC-3205-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3005-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3005-0000&RinDistribution=USCA-SCXX-3005-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3105-0000&RinDistribution=USCA-SCXX-3105-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-3205-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3205-0000&RinDistribution=USCA-SCXX-3205-0000) | TOU-8-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-3006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3006-0000&RinDistribution=USCA-SCSC-3006-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3106-0000&RinDistribution=USCA-SCSC-3106-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3206-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3206-0000&RinDistribution=USCA-SCSC-3206-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3006-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3006-0000&RinDistribution=USCA-SCXX-3006-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3106-0000&RinDistribution=USCA-SCXX-3106-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-3206-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3206-0000&RinDistribution=USCA-SCXX-3206-0000) | TOU-8-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-3102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3102-0000&RinDistribution=USCA-SCSC-3102-0000) | TOU-8-E-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-3202-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3202-0000&RinDistribution=USCA-SCXX-3202-0000) | TOU-8-E-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-3002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3002-0000&RinDistribution=USCA-SCSC-3002-0000) | TOU-8-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-3202-0000](/tools/dashboard?RinEnergy=USCA-SCSC-3202-0000&RinDistribution=USCA-SCSC-3202-0000) | TOU-8-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3002-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3002-0000&RinDistribution=USCA-SCXX-3002-0000) | TOU-8-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-3102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-3102-0000&RinDistribution=USCA-SCXX-3102-0000) | TOU-8-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-4500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4500-0000&RinDistribution=USCA-SCSC-4500-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCSC-4600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4600-0000&RinDistribution=USCA-SCSC-4600-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCSC-4700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4700-0000&RinDistribution=USCA-SCSC-4700-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCXX-4500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4500-0000&RinDistribution=USCA-SCXX-4500-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCXX-4600-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4600-0000&RinDistribution=USCA-SCXX-4600-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCXX-4700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-4700-0000&RinDistribution=USCA-SCXX-4700-0000) | TOU-8-LG, STANDBY |
+| SC | SC | [USCA-SCSC-4501-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4501-0000&RinDistribution=USCA-SCSC-4501-0000) | TOU-8-LG, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-4601-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4601-0000&RinDistribution=USCA-SCSC-4601-0000) | TOU-8-LG, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-4701-0000](/tools/dashboard?RinEnergy=USCA-SCSC-4701-0000&RinDistribution=USCA-SCSC-4701-0000) | TOU-8-LG, STANDBY-CPP |
+| SC | SC | [USCA-SCSC-0400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0400-0000&RinDistribution=USCA-SCSC-0400-0000) | TOU-D 4-9 PM |
+| SC | SC | [USCA-SCXX-0400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0400-0000&RinDistribution=USCA-SCXX-0400-0000) | TOU-D 4-9 PM |
+| SC | SC | [USCA-SCSC-0401-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0401-0000&RinDistribution=USCA-SCSC-0401-0000) | TOU-D 4-9 PM-CPP |
+| SC | SC | [USCA-SCSC-0500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0500-0000&RinDistribution=USCA-SCSC-0500-0000) | TOU-D 5-8 PM |
+| SC | SC | [USCA-SCXX-0500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0500-0000&RinDistribution=USCA-SCXX-0500-0000) | TOU-D 5-8 PM |
+| SC | SC | [USCA-SCSC-0501-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0501-0000&RinDistribution=USCA-SCSC-0501-0000) | TOU-D 5-8 PM-CPP |
+| SC | SC | [USCA-SCSC-0600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0600-0000&RinDistribution=USCA-SCSC-0600-0000) | TOU-D-PRIME |
+| SC | SC | [USCA-SCXX-0600-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0600-0000&RinDistribution=USCA-SCXX-0600-0000) | TOU-D-PRIME |
+| SC | SC | [USCA-SCSC-0606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0606-0000&RinDistribution=USCA-SCSC-0606-0000) | TOU-D-PRIME- NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-0606-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0606-0000&RinDistribution=USCA-SCXX-0606-0000) | TOU-D-PRIME- NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0601-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0601-0000&RinDistribution=USCA-SCSC-0601-0000) | TOU-D-PRIME-CPP |
+| SC | SC | [USCA-SCSC-0609-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0609-0000&RinDistribution=USCA-SCSC-0609-0000) | TOU-D-PRIME-CPP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-0610-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0610-0000&RinDistribution=USCA-SCSC-0610-0000) | TOU-D-PRIME-CPP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-0611-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0611-0000&RinDistribution=USCA-SCSC-0611-0000) | TOU-D-PRIME-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0612-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0612-0000&RinDistribution=USCA-SCSC-0612-0000) | TOU-D-PRIME-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0608-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0608-0000&RinDistribution=USCA-SCSC-0608-0000) | TOU-D-PRIME-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-0603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0603-0000&RinDistribution=USCA-SCSC-0603-0000) | TOU-D-PRIME-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCXX-0603-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0603-0000&RinDistribution=USCA-SCXX-0603-0000) | TOU-D-PRIME-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-0604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0604-0000&RinDistribution=USCA-SCSC-0604-0000) | TOU-D-PRIME-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCXX-0604-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0604-0000&RinDistribution=USCA-SCXX-0604-0000) | TOU-D-PRIME-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-0605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0605-0000&RinDistribution=USCA-SCSC-0605-0000) | TOU-D-PRIME-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-0605-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0605-0000&RinDistribution=USCA-SCXX-0605-0000) | TOU-D-PRIME-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0602-0000&RinDistribution=USCA-SCSC-0602-0000) | TOU-D-PRIME-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-0602-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0602-0000&RinDistribution=USCA-SCXX-0602-0000) | TOU-D-PRIME-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-2100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2100-0000&RinDistribution=USCA-SCSC-2100-0000) | TOU-EV-8 |
+| SC | SC | [USCA-SCXX-2100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2100-0000&RinDistribution=USCA-SCXX-2100-0000) | TOU-EV-8 |
+| SC | SC | [USCA-SCSC-2103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2103-0000&RinDistribution=USCA-SCSC-2103-0000) | TOU-EV-8-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2103-0000&RinDistribution=USCA-SCXX-2103-0000) | TOU-EV-8-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2104-0000&RinDistribution=USCA-SCSC-2104-0000) | TOU-EV-8-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2104-0000&RinDistribution=USCA-SCXX-2104-0000) | TOU-EV-8-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2105-0000&RinDistribution=USCA-SCSC-2105-0000) | TOU-EV-8-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2105-0000&RinDistribution=USCA-SCXX-2105-0000) | TOU-EV-8-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2106-0000&RinDistribution=USCA-SCSC-2106-0000) | TOU-EV-8-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2106-0000&RinDistribution=USCA-SCXX-2106-0000) | TOU-EV-8-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2102-0000&RinDistribution=USCA-SCSC-2102-0000) | TOU-EV-8-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2102-0000&RinDistribution=USCA-SCXX-2102-0000) | TOU-EV-8-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2700-0000&RinDistribution=USCA-SCSC-2700-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCSC-2800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2800-0000&RinDistribution=USCA-SCSC-2800-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCSC-2900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2900-0000&RinDistribution=USCA-SCSC-2900-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCXX-2700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2700-0000&RinDistribution=USCA-SCXX-2700-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCXX-2800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2800-0000&RinDistribution=USCA-SCXX-2800-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCXX-2900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2900-0000&RinDistribution=USCA-SCXX-2900-0000) | TOU-EV-9 |
+| SC | SC | [USCA-SCSC-2703-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2703-0000&RinDistribution=USCA-SCSC-2703-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2803-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2803-0000&RinDistribution=USCA-SCSC-2803-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2903-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2903-0000&RinDistribution=USCA-SCSC-2903-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2703-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2703-0000&RinDistribution=USCA-SCXX-2703-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2803-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2803-0000&RinDistribution=USCA-SCXX-2803-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2903-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2903-0000&RinDistribution=USCA-SCXX-2903-0000) | TOU-EV-9-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2704-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2704-0000&RinDistribution=USCA-SCSC-2704-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2804-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2804-0000&RinDistribution=USCA-SCSC-2804-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2904-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2904-0000&RinDistribution=USCA-SCSC-2904-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2704-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2704-0000&RinDistribution=USCA-SCXX-2704-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2804-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2804-0000&RinDistribution=USCA-SCXX-2804-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2904-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2904-0000&RinDistribution=USCA-SCXX-2904-0000) | TOU-EV-9-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2705-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2705-0000&RinDistribution=USCA-SCSC-2705-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2805-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2805-0000&RinDistribution=USCA-SCSC-2805-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2905-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2905-0000&RinDistribution=USCA-SCSC-2905-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2705-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2705-0000&RinDistribution=USCA-SCXX-2705-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2805-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2805-0000&RinDistribution=USCA-SCXX-2805-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2905-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2905-0000&RinDistribution=USCA-SCXX-2905-0000) | TOU-EV-9-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2706-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2706-0000&RinDistribution=USCA-SCSC-2706-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2806-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2806-0000&RinDistribution=USCA-SCSC-2806-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2906-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2906-0000&RinDistribution=USCA-SCSC-2906-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2706-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2706-0000&RinDistribution=USCA-SCXX-2706-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2806-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2806-0000&RinDistribution=USCA-SCXX-2806-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2906-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2906-0000&RinDistribution=USCA-SCXX-2906-0000) | TOU-EV-9-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2702-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2702-0000&RinDistribution=USCA-SCSC-2702-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2802-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2802-0000&RinDistribution=USCA-SCSC-2802-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2902-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2902-0000&RinDistribution=USCA-SCSC-2902-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2702-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2702-0000&RinDistribution=USCA-SCXX-2702-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2802-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2802-0000&RinDistribution=USCA-SCXX-2802-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2902-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2902-0000&RinDistribution=USCA-SCXX-2902-0000) | TOU-EV-9-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1100-0000&RinDistribution=USCA-SCSC-1100-0000) | TOU-GS-1-D |
+| SC | SC | [USCA-SCXX-1100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1100-0000&RinDistribution=USCA-SCXX-1100-0000) | TOU-GS-1-D |
+| SC | SC | [USCA-SCSC-1300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1300-0000&RinDistribution=USCA-SCSC-1300-0000) | TOU-GS-1-D, RTP |
+| SC | SC | [USCA-SCSC-1303-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1303-0000&RinDistribution=USCA-SCSC-1303-0000) | TOU-GS-1-D, RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-1304-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1304-0000&RinDistribution=USCA-SCSC-1304-0000) | TOU-GS-1-D, RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-1305-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1305-0000&RinDistribution=USCA-SCSC-1305-0000) | TOU-GS-1-D, RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1306-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1306-0000&RinDistribution=USCA-SCSC-1306-0000) | TOU-GS-1-D, RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1302-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1302-0000&RinDistribution=USCA-SCSC-1302-0000) | TOU-GS-1-D, RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-1103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1103-0000&RinDistribution=USCA-SCSC-1103-0000) | TOU-GS-1-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1103-0000&RinDistribution=USCA-SCXX-1103-0000) | TOU-GS-1-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1104-0000&RinDistribution=USCA-SCSC-1104-0000) | TOU-GS-1-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-1104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1104-0000&RinDistribution=USCA-SCXX-1104-0000) | TOU-GS-1-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1105-0000&RinDistribution=USCA-SCSC-1105-0000) | TOU-GS-1-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1105-0000&RinDistribution=USCA-SCXX-1105-0000) | TOU-GS-1-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1106-0000&RinDistribution=USCA-SCSC-1106-0000) | TOU-GS-1-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1106-0000&RinDistribution=USCA-SCXX-1106-0000) | TOU-GS-1-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1102-0000&RinDistribution=USCA-SCSC-1102-0000) | TOU-GS-1-D-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-1102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1102-0000&RinDistribution=USCA-SCXX-1102-0000) | TOU-GS-1-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0800-0000&RinDistribution=USCA-SCSC-0800-0000) | TOU-GS-1-E |
+| SC | SC | [USCA-SCXX-0800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0800-0000&RinDistribution=USCA-SCXX-0800-0000) | TOU-GS-1-E |
+| SC | SC | [USCA-SCSC-0801-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0801-0000&RinDistribution=USCA-SCSC-0801-0000) | TOU-GS-1-E-CPP |
+| SC | SC | [USCA-SCSC-0809-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0809-0000&RinDistribution=USCA-SCSC-0809-0000) | TOU-GS-1-E-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0810-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0810-0000&RinDistribution=USCA-SCSC-0810-0000) | TOU-GS-1-E-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0811-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0811-0000&RinDistribution=USCA-SCSC-0811-0000) | TOU-GS-1-E-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0812-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0812-0000&RinDistribution=USCA-SCSC-0812-0000) | TOU-GS-1-E-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0808-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0808-0000&RinDistribution=USCA-SCSC-0808-0000) | TOU-GS-1-E-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0803-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0803-0000&RinDistribution=USCA-SCSC-0803-0000) | TOU-GS-1-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-0803-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0803-0000&RinDistribution=USCA-SCXX-0803-0000) | TOU-GS-1-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0804-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0804-0000&RinDistribution=USCA-SCSC-0804-0000) | TOU-GS-1-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-0804-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0804-0000&RinDistribution=USCA-SCXX-0804-0000) | TOU-GS-1-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0805-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0805-0000&RinDistribution=USCA-SCSC-0805-0000) | TOU-GS-1-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-0805-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0805-0000&RinDistribution=USCA-SCXX-0805-0000) | TOU-GS-1-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0806-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0806-0000&RinDistribution=USCA-SCSC-0806-0000) | TOU-GS-1-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-0806-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0806-0000&RinDistribution=USCA-SCXX-0806-0000) | TOU-GS-1-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0802-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0802-0000&RinDistribution=USCA-SCSC-0802-0000) | TOU-GS-1-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-0802-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0802-0000&RinDistribution=USCA-SCXX-0802-0000) | TOU-GS-1-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0900-0000&RinDistribution=USCA-SCSC-0900-0000) | TOU-GS-1-ES |
+| SC | SC | [USCA-SCXX-0900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0900-0000&RinDistribution=USCA-SCXX-0900-0000) | TOU-GS-1-ES |
+| SC | SC | [USCA-SCSC-0901-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0901-0000&RinDistribution=USCA-SCSC-0901-0000) | TOU-GS-1-ES-CPP |
+| SC | SC | [USCA-SCSC-0909-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0909-0000&RinDistribution=USCA-SCSC-0909-0000) | TOU-GS-1-ES-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0910-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0910-0000&RinDistribution=USCA-SCSC-0910-0000) | TOU-GS-1-ES-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0911-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0911-0000&RinDistribution=USCA-SCSC-0911-0000) | TOU-GS-1-ES-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0912-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0912-0000&RinDistribution=USCA-SCSC-0912-0000) | TOU-GS-1-ES-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0908-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0908-0000&RinDistribution=USCA-SCSC-0908-0000) | TOU-GS-1-ES-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-0903-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0903-0000&RinDistribution=USCA-SCSC-0903-0000) | TOU-GS-1-ES-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-0903-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0903-0000&RinDistribution=USCA-SCXX-0903-0000) | TOU-GS-1-ES-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-0904-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0904-0000&RinDistribution=USCA-SCSC-0904-0000) | TOU-GS-1-ES-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-0904-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0904-0000&RinDistribution=USCA-SCXX-0904-0000) | TOU-GS-1-ES-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-0905-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0905-0000&RinDistribution=USCA-SCSC-0905-0000) | TOU-GS-1-ES-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-0905-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0905-0000&RinDistribution=USCA-SCXX-0905-0000) | TOU-GS-1-ES-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-0906-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0906-0000&RinDistribution=USCA-SCSC-0906-0000) | TOU-GS-1-ES-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-0906-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0906-0000&RinDistribution=USCA-SCXX-0906-0000) | TOU-GS-1-ES-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-0902-0000](/tools/dashboard?RinEnergy=USCA-SCSC-0902-0000&RinDistribution=USCA-SCSC-0902-0000) | TOU-GS-1-ES-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-0902-0000](/tools/dashboard?RinEnergy=USCA-SCXX-0902-0000&RinDistribution=USCA-SCXX-0902-0000) | TOU-GS-1-ES-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1800-0000&RinDistribution=USCA-SCSC-1800-0000) | TOU-GS-2-D |
+| SC | SC | [USCA-SCXX-1800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1800-0000&RinDistribution=USCA-SCXX-1800-0000) | TOU-GS-2-D |
+| SC | SC | [USCA-SCSC-2000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2000-0000&RinDistribution=USCA-SCSC-2000-0000) | TOU-GS-2-D, RTP |
+| SC | SC | [USCA-SCSC-2003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2003-0000&RinDistribution=USCA-SCSC-2003-0000) | TOU-GS-2-D, RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-2004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2004-0000&RinDistribution=USCA-SCSC-2004-0000) | TOU-GS-2-D, RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-2005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2005-0000&RinDistribution=USCA-SCSC-2005-0000) | TOU-GS-2-D, RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2006-0000&RinDistribution=USCA-SCSC-2006-0000) | TOU-GS-2-D, RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2002-0000&RinDistribution=USCA-SCSC-2002-0000) | TOU-GS-2-D, RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-1801-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1801-0000&RinDistribution=USCA-SCSC-1801-0000) | TOU-GS-2-D-CPP |
+| SC | SC | [USCA-SCSC-1809-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1809-0000&RinDistribution=USCA-SCSC-1809-0000) | TOU-GS-2-D-CPP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-1810-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1810-0000&RinDistribution=USCA-SCSC-1810-0000) | TOU-GS-2-D-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1811-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1811-0000&RinDistribution=USCA-SCSC-1811-0000) | TOU-GS-2-D-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1812-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1812-0000&RinDistribution=USCA-SCSC-1812-0000) | TOU-GS-2-D-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1808-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1808-0000&RinDistribution=USCA-SCSC-1808-0000) | TOU-GS-2-D-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-1803-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1803-0000&RinDistribution=USCA-SCSC-1803-0000) | TOU-GS-2-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1803-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1803-0000&RinDistribution=USCA-SCXX-1803-0000) | TOU-GS-2-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1804-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1804-0000&RinDistribution=USCA-SCSC-1804-0000) | TOU-GS-2-D-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCXX-1804-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1804-0000&RinDistribution=USCA-SCXX-1804-0000) | TOU-GS-2-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1805-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1805-0000&RinDistribution=USCA-SCSC-1805-0000) | TOU-GS-2-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1805-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1805-0000&RinDistribution=USCA-SCXX-1805-0000) | TOU-GS-2-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1806-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1806-0000&RinDistribution=USCA-SCSC-1806-0000) | TOU-GS-2-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1806-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1806-0000&RinDistribution=USCA-SCXX-1806-0000) | TOU-GS-2-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-1802-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1802-0000&RinDistribution=USCA-SCSC-1802-0000) | TOU-GS-2-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-1802-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1802-0000&RinDistribution=USCA-SCXX-1802-0000) | TOU-GS-2-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-1600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1600-0000&RinDistribution=USCA-SCSC-1600-0000) | TOU-GS-2-E |
+| SC | SC | [USCA-SCXX-1600-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1600-0000&RinDistribution=USCA-SCXX-1600-0000) | TOU-GS-2-E |
+| SC | SC | [USCA-SCSC-1603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1603-0000&RinDistribution=USCA-SCSC-1603-0000) | TOU-GS-2-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-1603-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1603-0000&RinDistribution=USCA-SCXX-1603-0000) | TOU-GS-2-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-1604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1604-0000&RinDistribution=USCA-SCSC-1604-0000) | TOU-GS-2-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-1604-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1604-0000&RinDistribution=USCA-SCXX-1604-0000) | TOU-GS-2-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-1605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1605-0000&RinDistribution=USCA-SCSC-1605-0000) | TOU-GS-2-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-1605-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1605-0000&RinDistribution=USCA-SCXX-1605-0000) | TOU-GS-2-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-1606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1606-0000&RinDistribution=USCA-SCSC-1606-0000) | TOU-GS-2-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1606-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1606-0000&RinDistribution=USCA-SCXX-1606-0000) | TOU-GS-2-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-1602-0000](/tools/dashboard?RinEnergy=USCA-SCXX-1602-0000&RinDistribution=USCA-SCXX-1602-0000) | TOU-GS-2-E-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-1602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-1602-0000&RinDistribution=USCA-SCSC-1602-0000) | TOU-GS-2-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2400-0000&RinDistribution=USCA-SCSC-2400-0000) | TOU-GS-3-D |
+| SC | SC | [USCA-SCXX-2400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2400-0000&RinDistribution=USCA-SCXX-2400-0000) | TOU-GS-3-D |
+| SC | SC | [USCA-SCSC-2600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2600-0000&RinDistribution=USCA-SCSC-2600-0000) | TOU-GS-3-D, RTP |
+| SC | SC | [USCA-SCSC-2603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2603-0000&RinDistribution=USCA-SCSC-2603-0000) | TOU-GS-3-D, RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-2604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2604-0000&RinDistribution=USCA-SCSC-2604-0000) | TOU-GS-3-D, RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-2605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2605-0000&RinDistribution=USCA-SCSC-2605-0000) | TOU-GS-3-D, RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2606-0000&RinDistribution=USCA-SCSC-2606-0000) | TOU-GS-3-D, RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2602-0000&RinDistribution=USCA-SCSC-2602-0000) | TOU-GS-3-D, RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-2401-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2401-0000&RinDistribution=USCA-SCSC-2401-0000) | TOU-GS-3-D-CPP |
+| SC | SC | [USCA-SCSC-2409-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2409-0000&RinDistribution=USCA-SCSC-2409-0000) | TOU-GS-3-D-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2410-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2410-0000&RinDistribution=USCA-SCSC-2410-0000) | TOU-GS-3-D-CPP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-2411-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2411-0000&RinDistribution=USCA-SCSC-2411-0000) | TOU-GS-3-D-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2412-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2412-0000&RinDistribution=USCA-SCSC-2412-0000) | TOU-GS-3-D-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2408-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2408-0000&RinDistribution=USCA-SCSC-2408-0000) | TOU-GS-3-D-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2403-0000&RinDistribution=USCA-SCSC-2403-0000) | TOU-GS-3-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2403-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2403-0000&RinDistribution=USCA-SCXX-2403-0000) | TOU-GS-3-D-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2404-0000&RinDistribution=USCA-SCSC-2404-0000) | TOU-GS-3-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2404-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2404-0000&RinDistribution=USCA-SCXX-2404-0000) | TOU-GS-3-D-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2405-0000&RinDistribution=USCA-SCSC-2405-0000) | TOU-GS-3-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2405-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2405-0000&RinDistribution=USCA-SCXX-2405-0000) | TOU-GS-3-D-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2406-0000&RinDistribution=USCA-SCSC-2406-0000) | TOU-GS-3-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2406-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2406-0000&RinDistribution=USCA-SCXX-2406-0000) | TOU-GS-3-D-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2402-0000&RinDistribution=USCA-SCSC-2402-0000) | TOU-GS-3-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2402-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2402-0000&RinDistribution=USCA-SCXX-2402-0000) | TOU-GS-3-D-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2200-0000&RinDistribution=USCA-SCSC-2200-0000) | TOU-GS-3-E |
+| SC | SC | [USCA-SCXX-2200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2200-0000&RinDistribution=USCA-SCXX-2200-0000) | TOU-GS-3-E |
+| SC | SC | [USCA-SCSC-2203-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2203-0000&RinDistribution=USCA-SCSC-2203-0000) | TOU-GS-3-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2203-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2203-0000&RinDistribution=USCA-SCXX-2203-0000) | TOU-GS-3-E-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2204-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2204-0000&RinDistribution=USCA-SCSC-2204-0000) | TOU-GS-3-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2204-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2204-0000&RinDistribution=USCA-SCXX-2204-0000) | TOU-GS-3-E-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2205-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2205-0000&RinDistribution=USCA-SCSC-2205-0000) | TOU-GS-3-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2205-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2205-0000&RinDistribution=USCA-SCXX-2205-0000) | TOU-GS-3-E-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2206-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2206-0000&RinDistribution=USCA-SCSC-2206-0000) | TOU-GS-3-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2206-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2206-0000&RinDistribution=USCA-SCXX-2206-0000) | TOU-GS-3-E-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2202-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2202-0000&RinDistribution=USCA-SCSC-2202-0000) | TOU-GS-3-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2202-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2202-0000&RinDistribution=USCA-SCXX-2202-0000) | TOU-GS-3-E-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-2500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2500-0000&RinDistribution=USCA-SCSC-2500-0000) | TOU-GS-3-R |
+| SC | SC | [USCA-SCXX-2500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2500-0000&RinDistribution=USCA-SCXX-2500-0000) | TOU-GS-3-R |
+| SC | SC | [USCA-SCSC-2503-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2503-0000&RinDistribution=USCA-SCSC-2503-0000) | TOU-GS-3-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-2503-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2503-0000&RinDistribution=USCA-SCXX-2503-0000) | TOU-GS-3-R-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-2504-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2504-0000&RinDistribution=USCA-SCSC-2504-0000) | TOU-GS-3-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-2504-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2504-0000&RinDistribution=USCA-SCXX-2504-0000) | TOU-GS-3-R-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-2505-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2505-0000&RinDistribution=USCA-SCSC-2505-0000) | TOU-GS-3-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-2505-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2505-0000&RinDistribution=USCA-SCXX-2505-0000) | TOU-GS-3-R-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-2506-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2506-0000&RinDistribution=USCA-SCSC-2506-0000) | TOU-GS-3-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-2506-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2506-0000&RinDistribution=USCA-SCXX-2506-0000) | TOU-GS-3-R-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-2502-0000](/tools/dashboard?RinEnergy=USCA-SCSC-2502-0000&RinDistribution=USCA-SCSC-2502-0000) | TOU-GS-3-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-2502-0000](/tools/dashboard?RinEnergy=USCA-SCXX-2502-0000&RinDistribution=USCA-SCXX-2502-0000) | TOU-GS-3-R-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6000-0000&RinDistribution=USCA-SCSC-6000-0000) | TOU-PA-2-A (GF) |
+| SC | SC | [USCA-SCXX-6000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6000-0000&RinDistribution=USCA-SCXX-6000-0000) | TOU-PA-2-A (GF) |
+| SC | SC | [USCA-SCSC-6003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6003-0000&RinDistribution=USCA-SCSC-6003-0000) | TOU-PA-2-A (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6003-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6003-0000&RinDistribution=USCA-SCXX-6003-0000) | TOU-PA-2-A (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6004-0000&RinDistribution=USCA-SCSC-6004-0000) | TOU-PA-2-A (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6004-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6004-0000&RinDistribution=USCA-SCXX-6004-0000) | TOU-PA-2-A (GF)-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6005-0000&RinDistribution=USCA-SCSC-6005-0000) | TOU-PA-2-A (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6005-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6005-0000&RinDistribution=USCA-SCXX-6005-0000) | TOU-PA-2-A (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6006-0000&RinDistribution=USCA-SCSC-6006-0000) | TOU-PA-2-A (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6006-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6006-0000&RinDistribution=USCA-SCXX-6006-0000) | TOU-PA-2-A (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6002-0000&RinDistribution=USCA-SCSC-6002-0000) | TOU-PA-2-A (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6002-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6002-0000&RinDistribution=USCA-SCXX-6002-0000) | TOU-PA-2-A (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6100-0000&RinDistribution=USCA-SCSC-6100-0000) | TOU-PA-2-B (GF) |
+| SC | SC | [USCA-SCXX-6100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6100-0000&RinDistribution=USCA-SCXX-6100-0000) | TOU-PA-2-B (GF) |
+| SC | SC | [USCA-SCSC-6101-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6101-0000&RinDistribution=USCA-SCSC-6101-0000) | TOU-PA-2-B (GF)-CPP |
+| SC | SC | [USCA-SCSC-6109-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6109-0000&RinDistribution=USCA-SCSC-6109-0000) | TOU-PA-2-B (GF)-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6110-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6110-0000&RinDistribution=USCA-SCSC-6110-0000) | TOU-PA-2-B (GF)-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6111-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6111-0000&RinDistribution=USCA-SCSC-6111-0000) | TOU-PA-2-B (GF)-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6112-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6112-0000&RinDistribution=USCA-SCSC-6112-0000) | TOU-PA-2-B (GF)-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6108-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6108-0000&RinDistribution=USCA-SCSC-6108-0000) | TOU-PA-2-B (GF)-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6103-0000&RinDistribution=USCA-SCSC-6103-0000) | TOU-PA-2-B (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6103-0000&RinDistribution=USCA-SCXX-6103-0000) | TOU-PA-2-B (GF)-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6104-0000&RinDistribution=USCA-SCSC-6104-0000) | TOU-PA-2-B (GF)-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCXX-6104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6104-0000&RinDistribution=USCA-SCXX-6104-0000) | TOU-PA-2-B (GF)-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-6105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6105-0000&RinDistribution=USCA-SCSC-6105-0000) | TOU-PA-2-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6105-0000&RinDistribution=USCA-SCXX-6105-0000) | TOU-PA-2-B (GF)-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6106-0000&RinDistribution=USCA-SCSC-6106-0000) | TOU-PA-2-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6106-0000&RinDistribution=USCA-SCXX-6106-0000) | TOU-PA-2-B (GF)-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6102-0000&RinDistribution=USCA-SCSC-6102-0000) | TOU-PA-2-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6102-0000&RinDistribution=USCA-SCXX-6102-0000) | TOU-PA-2-B (GF)-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6300-0000&RinDistribution=USCA-SCSC-6300-0000) | TOU-PA-2-D 4PM TO 9PM |
+| SC | SC | [USCA-SCSC-6311-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6311-0000&RinDistribution=USCA-SCSC-6311-0000) | TOU-PA-2-D 4PM TO 9PM-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6312-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6312-0000&RinDistribution=USCA-SCSC-6312-0000) | TOU-PA-2-D 4PM TO 9PM-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6305-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6305-0000&RinDistribution=USCA-SCSC-6305-0000) | TOU-PA-2-D 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6305-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6305-0000&RinDistribution=USCA-SCXX-6305-0000) | TOU-PA-2-D 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6306-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6306-0000&RinDistribution=USCA-SCSC-6306-0000) | TOU-PA-2-D 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6306-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6306-0000&RinDistribution=USCA-SCXX-6306-0000) | TOU-PA-2-D 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6300-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6300-0000&RinDistribution=USCA-SCXX-6300-0000) | TOU-PA-2-D 4pm to 9pm |
+| SC | SC | [USCA-SCSC-6301-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6301-0000&RinDistribution=USCA-SCSC-6301-0000) | TOU-PA-2-D 4pm to 9pm-CPP |
+| SC | SC | [USCA-SCSC-6309-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6309-0000&RinDistribution=USCA-SCSC-6309-0000) | TOU-PA-2-D 4pm to 9pm-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6310-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6310-0000&RinDistribution=USCA-SCSC-6310-0000) | TOU-PA-2-D 4pm to 9pm-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6308-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6308-0000&RinDistribution=USCA-SCSC-6308-0000) | TOU-PA-2-D 4pm to 9pm-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6303-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6303-0000&RinDistribution=USCA-SCSC-6303-0000) | TOU-PA-2-D 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6303-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6303-0000&RinDistribution=USCA-SCXX-6303-0000) | TOU-PA-2-D 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6304-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6304-0000&RinDistribution=USCA-SCSC-6304-0000) | TOU-PA-2-D 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6304-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6304-0000&RinDistribution=USCA-SCXX-6304-0000) | TOU-PA-2-D 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6302-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6302-0000&RinDistribution=USCA-SCSC-6302-0000) | TOU-PA-2-D 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6302-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6302-0000&RinDistribution=USCA-SCXX-6302-0000) | TOU-PA-2-D 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6509-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6509-0000&RinDistribution=USCA-SCSC-6509-0000) | TOU-PA-2-D 5PM TO 8PM-CPP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-6511-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6511-0000&RinDistribution=USCA-SCSC-6511-0000) | TOU-PA-2-D 5PM TO 8PM-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6512-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6512-0000&RinDistribution=USCA-SCSC-6512-0000) | TOU-PA-2-D 5PM TO 8PM-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6505-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6505-0000&RinDistribution=USCA-SCSC-6505-0000) | TOU-PA-2-D 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6505-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6505-0000&RinDistribution=USCA-SCXX-6505-0000) | TOU-PA-2-D 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6506-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6506-0000&RinDistribution=USCA-SCSC-6506-0000) | TOU-PA-2-D 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6506-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6506-0000&RinDistribution=USCA-SCXX-6506-0000) | TOU-PA-2-D 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6500-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6500-0000&RinDistribution=USCA-SCSC-6500-0000) | TOU-PA-2-D 5pm to 8pm |
+| SC | SC | [USCA-SCXX-6500-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6500-0000&RinDistribution=USCA-SCXX-6500-0000) | TOU-PA-2-D 5pm to 8pm |
+| SC | SC | [USCA-SCSC-6501-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6501-0000&RinDistribution=USCA-SCSC-6501-0000) | TOU-PA-2-D 5pm to 8pm-CPP |
+| SC | SC | [USCA-SCSC-6510-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6510-0000&RinDistribution=USCA-SCSC-6510-0000) | TOU-PA-2-D 5pm to 8pm-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6508-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6508-0000&RinDistribution=USCA-SCSC-6508-0000) | TOU-PA-2-D 5pm to 8pm-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6503-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6503-0000&RinDistribution=USCA-SCSC-6503-0000) | TOU-PA-2-D 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6503-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6503-0000&RinDistribution=USCA-SCXX-6503-0000) | TOU-PA-2-D 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6504-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6504-0000&RinDistribution=USCA-SCSC-6504-0000) | TOU-PA-2-D 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6504-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6504-0000&RinDistribution=USCA-SCXX-6504-0000) | TOU-PA-2-D 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6502-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6502-0000&RinDistribution=USCA-SCSC-6502-0000) | TOU-PA-2-D 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6502-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6502-0000&RinDistribution=USCA-SCXX-6502-0000) | TOU-PA-2-D 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6600-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6600-0000&RinDistribution=USCA-SCSC-6600-0000) | TOU-PA-2-D, RTP |
+| SC | SC | [USCA-SCSC-6603-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6603-0000&RinDistribution=USCA-SCSC-6603-0000) | TOU-PA-2-D, RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-6604-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6604-0000&RinDistribution=USCA-SCSC-6604-0000) | TOU-PA-2-D, RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-6605-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6605-0000&RinDistribution=USCA-SCSC-6605-0000) | TOU-PA-2-D, RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6606-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6606-0000&RinDistribution=USCA-SCSC-6606-0000) | TOU-PA-2-D, RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6602-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6602-0000&RinDistribution=USCA-SCSC-6602-0000) | TOU-PA-2-D, RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-6205-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6205-0000&RinDistribution=USCA-SCSC-6205-0000) | TOU-PA-2-E 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6205-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6205-0000&RinDistribution=USCA-SCXX-6205-0000) | TOU-PA-2-E 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6206-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6206-0000&RinDistribution=USCA-SCSC-6206-0000) | TOU-PA-2-E 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6206-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6206-0000&RinDistribution=USCA-SCXX-6206-0000) | TOU-PA-2-E 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6200-0000&RinDistribution=USCA-SCSC-6200-0000) | TOU-PA-2-E 4pm to 9pm |
+| SC | SC | [USCA-SCXX-6200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6200-0000&RinDistribution=USCA-SCXX-6200-0000) | TOU-PA-2-E 4pm to 9pm |
+| SC | SC | [USCA-SCSC-6203-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6203-0000&RinDistribution=USCA-SCSC-6203-0000) | TOU-PA-2-E 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6203-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6203-0000&RinDistribution=USCA-SCXX-6203-0000) | TOU-PA-2-E 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6204-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6204-0000&RinDistribution=USCA-SCSC-6204-0000) | TOU-PA-2-E 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6204-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6204-0000&RinDistribution=USCA-SCXX-6204-0000) | TOU-PA-2-E 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6202-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6202-0000&RinDistribution=USCA-SCSC-6202-0000) | TOU-PA-2-E 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6202-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6202-0000&RinDistribution=USCA-SCXX-6202-0000) | TOU-PA-2-E 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6405-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6405-0000&RinDistribution=USCA-SCSC-6405-0000) | TOU-PA-2-E 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6405-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6405-0000&RinDistribution=USCA-SCXX-6405-0000) | TOU-PA-2-E 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6406-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6406-0000&RinDistribution=USCA-SCSC-6406-0000) | TOU-PA-2-E 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6406-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6406-0000&RinDistribution=USCA-SCXX-6406-0000) | TOU-PA-2-E 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6400-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6400-0000&RinDistribution=USCA-SCSC-6400-0000) | TOU-PA-2-E 5pm to 8pm |
+| SC | SC | [USCA-SCXX-6400-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6400-0000&RinDistribution=USCA-SCXX-6400-0000) | TOU-PA-2-E 5pm to 8pm |
+| SC | SC | [USCA-SCSC-6403-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6403-0000&RinDistribution=USCA-SCSC-6403-0000) | TOU-PA-2-E 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6403-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6403-0000&RinDistribution=USCA-SCXX-6403-0000) | TOU-PA-2-E 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6404-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6404-0000&RinDistribution=USCA-SCSC-6404-0000) | TOU-PA-2-E 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6404-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6404-0000&RinDistribution=USCA-SCXX-6404-0000) | TOU-PA-2-E 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6402-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6402-0000&RinDistribution=USCA-SCSC-6402-0000) | TOU-PA-2-E 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6402-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6402-0000&RinDistribution=USCA-SCXX-6402-0000) | TOU-PA-2-E 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6700-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6700-0000&RinDistribution=USCA-SCSC-6700-0000) | TOU-PA-3-A |
+| SC | SC | [USCA-SCXX-6700-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6700-0000&RinDistribution=USCA-SCXX-6700-0000) | TOU-PA-3-A |
+| SC | SC | [USCA-SCSC-6703-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6703-0000&RinDistribution=USCA-SCSC-6703-0000) | TOU-PA-3-A-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6703-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6703-0000&RinDistribution=USCA-SCXX-6703-0000) | TOU-PA-3-A-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6704-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6704-0000&RinDistribution=USCA-SCSC-6704-0000) | TOU-PA-3-A-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6704-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6704-0000&RinDistribution=USCA-SCXX-6704-0000) | TOU-PA-3-A-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6705-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6705-0000&RinDistribution=USCA-SCSC-6705-0000) | TOU-PA-3-A-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6705-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6705-0000&RinDistribution=USCA-SCXX-6705-0000) | TOU-PA-3-A-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6706-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6706-0000&RinDistribution=USCA-SCSC-6706-0000) | TOU-PA-3-A-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6706-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6706-0000&RinDistribution=USCA-SCXX-6706-0000) | TOU-PA-3-A-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6702-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6702-0000&RinDistribution=USCA-SCSC-6702-0000) | TOU-PA-3-A-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6702-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6702-0000&RinDistribution=USCA-SCXX-6702-0000) | TOU-PA-3-A-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6800-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6800-0000&RinDistribution=USCA-SCSC-6800-0000) | TOU-PA-3-B |
+| SC | SC | [USCA-SCXX-6800-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6800-0000&RinDistribution=USCA-SCXX-6800-0000) | TOU-PA-3-B |
+| SC | SC | [USCA-SCSC-6801-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6801-0000&RinDistribution=USCA-SCSC-6801-0000) | TOU-PA-3-B-CPP |
+| SC | SC | [USCA-SCSC-6809-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6809-0000&RinDistribution=USCA-SCSC-6809-0000) | TOU-PA-3-B-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6810-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6810-0000&RinDistribution=USCA-SCSC-6810-0000) | TOU-PA-3-B-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6811-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6811-0000&RinDistribution=USCA-SCSC-6811-0000) | TOU-PA-3-B-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6812-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6812-0000&RinDistribution=USCA-SCSC-6812-0000) | TOU-PA-3-B-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6808-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6808-0000&RinDistribution=USCA-SCSC-6808-0000) | TOU-PA-3-B-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-6803-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6803-0000&RinDistribution=USCA-SCSC-6803-0000) | TOU-PA-3-B-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCXX-6803-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6803-0000&RinDistribution=USCA-SCXX-6803-0000) | TOU-PA-3-B-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6804-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6804-0000&RinDistribution=USCA-SCSC-6804-0000) | TOU-PA-3-B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6804-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6804-0000&RinDistribution=USCA-SCXX-6804-0000) | TOU-PA-3-B-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6805-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6805-0000&RinDistribution=USCA-SCSC-6805-0000) | TOU-PA-3-B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6805-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6805-0000&RinDistribution=USCA-SCXX-6805-0000) | TOU-PA-3-B-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6806-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6806-0000&RinDistribution=USCA-SCSC-6806-0000) | TOU-PA-3-B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6806-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6806-0000&RinDistribution=USCA-SCXX-6806-0000) | TOU-PA-3-B-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6802-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6802-0000&RinDistribution=USCA-SCSC-6802-0000) | TOU-PA-3-B-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-6802-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6802-0000&RinDistribution=USCA-SCXX-6802-0000) | TOU-PA-3-B-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCXX-7000-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7000-0000&RinDistribution=USCA-SCXX-7000-0000) | TOU-PA-3-D 4PM TO 9PM |
+| SC | SC | [USCA-SCSC-7001-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7001-0000&RinDistribution=USCA-SCSC-7001-0000) | TOU-PA-3-D 4PM TO 9PM-CPP |
+| SC | SC | [USCA-SCSC-7011-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7011-0000&RinDistribution=USCA-SCSC-7011-0000) | TOU-PA-3-D 4PM TO 9PM-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7012-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7012-0000&RinDistribution=USCA-SCSC-7012-0000) | TOU-PA-3-D 4PM TO 9PM-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7008-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7008-0000&RinDistribution=USCA-SCSC-7008-0000) | TOU-PA-3-D 4PM TO 9PM-CPP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-7003-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7003-0000&RinDistribution=USCA-SCSC-7003-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCXX-7004-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7004-0000&RinDistribution=USCA-SCXX-7004-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-7005-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7005-0000&RinDistribution=USCA-SCSC-7005-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-7005-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7005-0000&RinDistribution=USCA-SCXX-7005-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7006-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7006-0000&RinDistribution=USCA-SCSC-7006-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-7006-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7006-0000&RinDistribution=USCA-SCXX-7006-0000) | TOU-PA-3-D 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7000-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7000-0000&RinDistribution=USCA-SCSC-7000-0000) | TOU-PA-3-D 4pm to 9pm |
+| SC | SC | [USCA-SCSC-7009-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7009-0000&RinDistribution=USCA-SCSC-7009-0000) | TOU-PA-3-D 4pm to 9pm-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7010-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7010-0000&RinDistribution=USCA-SCSC-7010-0000) | TOU-PA-3-D 4pm to 9pm-CPP-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-7003-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7003-0000&RinDistribution=USCA-SCXX-7003-0000) | TOU-PA-3-D 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7004-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7004-0000&RinDistribution=USCA-SCSC-7004-0000) | TOU-PA-3-D 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-7002-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7002-0000&RinDistribution=USCA-SCSC-7002-0000) | TOU-PA-3-D 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-7002-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7002-0000&RinDistribution=USCA-SCXX-7002-0000) | TOU-PA-3-D 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-7300-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7300-0000&RinDistribution=USCA-SCSC-7300-0000) | TOU-PA-3-D, RTP |
+| SC | SC | [USCA-SCSC-7303-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7303-0000&RinDistribution=USCA-SCSC-7303-0000) | TOU-PA-3-D, RTP-NBT 2023 VINTAGE |
+| SC | SC | [USCA-SCSC-7304-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7304-0000&RinDistribution=USCA-SCSC-7304-0000) | TOU-PA-3-D, RTP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-7305-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7305-0000&RinDistribution=USCA-SCSC-7305-0000) | TOU-PA-3-D, RTP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7306-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7306-0000&RinDistribution=USCA-SCSC-7306-0000) | TOU-PA-3-D, RTP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7302-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7302-0000&RinDistribution=USCA-SCSC-7302-0000) | TOU-PA-3-D, RTP-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-7201-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7201-0000&RinDistribution=USCA-SCSC-7201-0000) | TOU-PA-3-D- 5PM TO 8PM-CPP |
+| SC | SC | [USCA-SCSC-7210-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7210-0000&RinDistribution=USCA-SCSC-7210-0000) | TOU-PA-3-D- 5PM TO 8PM-CPP-NBT 2024 VINTAGE |
+| SC | SC | [USCA-SCSC-7211-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7211-0000&RinDistribution=USCA-SCSC-7211-0000) | TOU-PA-3-D- 5PM TO 8PM-CPP-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7212-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7212-0000&RinDistribution=USCA-SCSC-7212-0000) | TOU-PA-3-D- 5PM TO 8PM-CPP-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7205-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7205-0000&RinDistribution=USCA-SCSC-7205-0000) | TOU-PA-3-D- 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-7205-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7205-0000&RinDistribution=USCA-SCXX-7205-0000) | TOU-PA-3-D- 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7206-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7206-0000&RinDistribution=USCA-SCSC-7206-0000) | TOU-PA-3-D- 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-7206-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7206-0000&RinDistribution=USCA-SCXX-7206-0000) | TOU-PA-3-D- 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-7202-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7202-0000&RinDistribution=USCA-SCXX-7202-0000) | TOU-PA-3-D- 5PM TO 8PM-NBT NON-VINTAGED |
+| SC | SC | [USCA-SCSC-7200-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7200-0000&RinDistribution=USCA-SCSC-7200-0000) | TOU-PA-3-D- 5pm to 8pm |
+| SC | SC | [USCA-SCXX-7200-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7200-0000&RinDistribution=USCA-SCXX-7200-0000) | TOU-PA-3-D- 5pm to 8pm |
+| SC | SC | [USCA-SCSC-7209-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7209-0000&RinDistribution=USCA-SCSC-7209-0000) | TOU-PA-3-D- 5pm to 8pm-CPP-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7208-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7208-0000&RinDistribution=USCA-SCSC-7208-0000) | TOU-PA-3-D- 5pm to 8pm-CPP-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-7203-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7203-0000&RinDistribution=USCA-SCSC-7203-0000) | TOU-PA-3-D- 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-7203-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7203-0000&RinDistribution=USCA-SCXX-7203-0000) | TOU-PA-3-D- 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7204-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7204-0000&RinDistribution=USCA-SCSC-7204-0000) | TOU-PA-3-D- 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-7204-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7204-0000&RinDistribution=USCA-SCXX-7204-0000) | TOU-PA-3-D- 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-7202-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7202-0000&RinDistribution=USCA-SCSC-7202-0000) | TOU-PA-3-D- 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-6905-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6905-0000&RinDistribution=USCA-SCSC-6905-0000) | TOU-PA-3-E 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-6905-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6905-0000&RinDistribution=USCA-SCXX-6905-0000) | TOU-PA-3-E 4PM TO 9PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-6906-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6906-0000&RinDistribution=USCA-SCSC-6906-0000) | TOU-PA-3-E 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-6906-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6906-0000&RinDistribution=USCA-SCXX-6906-0000) | TOU-PA-3-E 4PM TO 9PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-6900-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6900-0000&RinDistribution=USCA-SCSC-6900-0000) | TOU-PA-3-E 4pm to 9pm |
+| SC | SC | [USCA-SCXX-6900-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6900-0000&RinDistribution=USCA-SCXX-6900-0000) | TOU-PA-3-E 4pm to 9pm |
+| SC | SC | [USCA-SCSC-6903-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6903-0000&RinDistribution=USCA-SCSC-6903-0000) | TOU-PA-3-E 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-6903-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6903-0000&RinDistribution=USCA-SCXX-6903-0000) | TOU-PA-3-E 4pm to 9pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-6904-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6904-0000&RinDistribution=USCA-SCSC-6904-0000) | TOU-PA-3-E 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-6904-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6904-0000&RinDistribution=USCA-SCXX-6904-0000) | TOU-PA-3-E 4pm to 9pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-6902-0000](/tools/dashboard?RinEnergy=USCA-SCSC-6902-0000&RinDistribution=USCA-SCSC-6902-0000) | TOU-PA-3-E 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-6902-0000](/tools/dashboard?RinEnergy=USCA-SCXX-6902-0000&RinDistribution=USCA-SCXX-6902-0000) | TOU-PA-3-E 4pm to 9pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCSC-7105-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7105-0000&RinDistribution=USCA-SCSC-7105-0000) | TOU-PA-3-E 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCXX-7105-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7105-0000&RinDistribution=USCA-SCXX-7105-0000) | TOU-PA-3-E 5PM TO 8PM-NBT 2025 VINTAGE |
+| SC | SC | [USCA-SCSC-7106-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7106-0000&RinDistribution=USCA-SCSC-7106-0000) | TOU-PA-3-E 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCXX-7106-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7106-0000&RinDistribution=USCA-SCXX-7106-0000) | TOU-PA-3-E 5PM TO 8PM-NBT 2026 VINTAGE |
+| SC | SC | [USCA-SCSC-7100-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7100-0000&RinDistribution=USCA-SCSC-7100-0000) | TOU-PA-3-E 5pm to 8pm |
+| SC | SC | [USCA-SCXX-7100-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7100-0000&RinDistribution=USCA-SCXX-7100-0000) | TOU-PA-3-E 5pm to 8pm |
+| SC | SC | [USCA-SCSC-7103-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7103-0000&RinDistribution=USCA-SCSC-7103-0000) | TOU-PA-3-E 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCXX-7103-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7103-0000&RinDistribution=USCA-SCXX-7103-0000) | TOU-PA-3-E 5pm to 8pm-NBT 2023 Vintage |
+| SC | SC | [USCA-SCSC-7104-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7104-0000&RinDistribution=USCA-SCSC-7104-0000) | TOU-PA-3-E 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCXX-7104-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7104-0000&RinDistribution=USCA-SCXX-7104-0000) | TOU-PA-3-E 5pm to 8pm-NBT 2024 Vintage |
+| SC | SC | [USCA-SCSC-7102-0000](/tools/dashboard?RinEnergy=USCA-SCSC-7102-0000&RinDistribution=USCA-SCSC-7102-0000) | TOU-PA-3-E 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCXX-7102-0000](/tools/dashboard?RinEnergy=USCA-SCXX-7102-0000&RinDistribution=USCA-SCXX-7102-0000) | TOU-PA-3-E 5pm to 8pm-NBT Non-Vintaged |
+| SC | SC | [USCA-SCOC-0001-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0001-0000&RinDistribution=USCA-SCOC-0001-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00010-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00010-0000&RinDistribution=USCA-SCOC-00010-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00011-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00011-0000&RinDistribution=USCA-SCOC-00011-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00012-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00012-0000&RinDistribution=USCA-SCOC-00012-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00013-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00013-0000&RinDistribution=USCA-SCOC-00013-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00014-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00014-0000&RinDistribution=USCA-SCOC-00014-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00015-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00015-0000&RinDistribution=USCA-SCOC-00015-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00016-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00016-0000&RinDistribution=USCA-SCOC-00016-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00017-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00017-0000&RinDistribution=USCA-SCOC-00017-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00018-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00018-0000&RinDistribution=USCA-SCOC-00018-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00019-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00019-0000&RinDistribution=USCA-SCOC-00019-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0002-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0002-0000&RinDistribution=USCA-SCOC-0002-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00020-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00020-0000&RinDistribution=USCA-SCOC-00020-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00021-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00021-0000&RinDistribution=USCA-SCOC-00021-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00022-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00022-0000&RinDistribution=USCA-SCOC-00022-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00023-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00023-0000&RinDistribution=USCA-SCOC-00023-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00024-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00024-0000&RinDistribution=USCA-SCOC-00024-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00025-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00025-0000&RinDistribution=USCA-SCOC-00025-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00026-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00026-0000&RinDistribution=USCA-SCOC-00026-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00027-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00027-0000&RinDistribution=USCA-SCOC-00027-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00028-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00028-0000&RinDistribution=USCA-SCOC-00028-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00029-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00029-0000&RinDistribution=USCA-SCOC-00029-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0003-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0003-0000&RinDistribution=USCA-SCOC-0003-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00030-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00030-0000&RinDistribution=USCA-SCOC-00030-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00031-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00031-0000&RinDistribution=USCA-SCOC-00031-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00032-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00032-0000&RinDistribution=USCA-SCOC-00032-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00033-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00033-0000&RinDistribution=USCA-SCOC-00033-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00034-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00034-0000&RinDistribution=USCA-SCOC-00034-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00035-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00035-0000&RinDistribution=USCA-SCOC-00035-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00036-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00036-0000&RinDistribution=USCA-SCOC-00036-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00037-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00037-0000&RinDistribution=USCA-SCOC-00037-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00038-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00038-0000&RinDistribution=USCA-SCOC-00038-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00039-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00039-0000&RinDistribution=USCA-SCOC-00039-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0004-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0004-0000&RinDistribution=USCA-SCOC-0004-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00040-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00040-0000&RinDistribution=USCA-SCOC-00040-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00041-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00041-0000&RinDistribution=USCA-SCOC-00041-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00042-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00042-0000&RinDistribution=USCA-SCOC-00042-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00043-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00043-0000&RinDistribution=USCA-SCOC-00043-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00044-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00044-0000&RinDistribution=USCA-SCOC-00044-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00045-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00045-0000&RinDistribution=USCA-SCOC-00045-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00046-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00046-0000&RinDistribution=USCA-SCOC-00046-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00047-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00047-0000&RinDistribution=USCA-SCOC-00047-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00048-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00048-0000&RinDistribution=USCA-SCOC-00048-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00049-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00049-0000&RinDistribution=USCA-SCOC-00049-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0005-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0005-0000&RinDistribution=USCA-SCOC-0005-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00050-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00050-0000&RinDistribution=USCA-SCOC-00050-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00051-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00051-0000&RinDistribution=USCA-SCOC-00051-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00052-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00052-0000&RinDistribution=USCA-SCOC-00052-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00053-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00053-0000&RinDistribution=USCA-SCOC-00053-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00054-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00054-0000&RinDistribution=USCA-SCOC-00054-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00055-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00055-0000&RinDistribution=USCA-SCOC-00055-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00056-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00056-0000&RinDistribution=USCA-SCOC-00056-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00057-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00057-0000&RinDistribution=USCA-SCOC-00057-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00058-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00058-0000&RinDistribution=USCA-SCOC-00058-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00059-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00059-0000&RinDistribution=USCA-SCOC-00059-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0006-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0006-0000&RinDistribution=USCA-SCOC-0006-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00060-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00060-0000&RinDistribution=USCA-SCOC-00060-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00061-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00061-0000&RinDistribution=USCA-SCOC-00061-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00062-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00062-0000&RinDistribution=USCA-SCOC-00062-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00063-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00063-0000&RinDistribution=USCA-SCOC-00063-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00064-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00064-0000&RinDistribution=USCA-SCOC-00064-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00065-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00065-0000&RinDistribution=USCA-SCOC-00065-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00066-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00066-0000&RinDistribution=USCA-SCOC-00066-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00067-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00067-0000&RinDistribution=USCA-SCOC-00067-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00068-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00068-0000&RinDistribution=USCA-SCOC-00068-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00069-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00069-0000&RinDistribution=USCA-SCOC-00069-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0007-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0007-0000&RinDistribution=USCA-SCOC-0007-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00070-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00070-0000&RinDistribution=USCA-SCOC-00070-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00071-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00071-0000&RinDistribution=USCA-SCOC-00071-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00072-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00072-0000&RinDistribution=USCA-SCOC-00072-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00073-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00073-0000&RinDistribution=USCA-SCOC-00073-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00074-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00074-0000&RinDistribution=USCA-SCOC-00074-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00075-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00075-0000&RinDistribution=USCA-SCOC-00075-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00076-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00076-0000&RinDistribution=USCA-SCOC-00076-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00077-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00077-0000&RinDistribution=USCA-SCOC-00077-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00078-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00078-0000&RinDistribution=USCA-SCOC-00078-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00079-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00079-0000&RinDistribution=USCA-SCOC-00079-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0008-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0008-0000&RinDistribution=USCA-SCOC-0008-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00080-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00080-0000&RinDistribution=USCA-SCOC-00080-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00081-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00081-0000&RinDistribution=USCA-SCOC-00081-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00082-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00082-0000&RinDistribution=USCA-SCOC-00082-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00083-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00083-0000&RinDistribution=USCA-SCOC-00083-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00084-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00084-0000&RinDistribution=USCA-SCOC-00084-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00085-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00085-0000&RinDistribution=USCA-SCOC-00085-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00086-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00086-0000&RinDistribution=USCA-SCOC-00086-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00087-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00087-0000&RinDistribution=USCA-SCOC-00087-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00088-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00088-0000&RinDistribution=USCA-SCOC-00088-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00089-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00089-0000&RinDistribution=USCA-SCOC-00089-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0009-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0009-0000&RinDistribution=USCA-SCOC-0009-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-00090-0000](/tools/dashboard?RinEnergy=USCA-SCOC-00090-0000&RinDistribution=USCA-SCOC-00090-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0010-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0010-0000&RinDistribution=USCA-SCOC-0010-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0011-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0011-0000&RinDistribution=USCA-SCOC-0011-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0012-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0012-0000&RinDistribution=USCA-SCOC-0012-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0013-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0013-0000&RinDistribution=USCA-SCOC-0013-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0014-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0014-0000&RinDistribution=USCA-SCOC-0014-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0015-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0015-0000&RinDistribution=USCA-SCOC-0015-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0016-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0016-0000&RinDistribution=USCA-SCOC-0016-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0017-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0017-0000&RinDistribution=USCA-SCOC-0017-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0018-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0018-0000&RinDistribution=USCA-SCOC-0018-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0019-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0019-0000&RinDistribution=USCA-SCOC-0019-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0020-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0020-0000&RinDistribution=USCA-SCOC-0020-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0021-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0021-0000&RinDistribution=USCA-SCOC-0021-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0022-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0022-0000&RinDistribution=USCA-SCOC-0022-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0023-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0023-0000&RinDistribution=USCA-SCOC-0023-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0024-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0024-0000&RinDistribution=USCA-SCOC-0024-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0025-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0025-0000&RinDistribution=USCA-SCOC-0025-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0026-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0026-0000&RinDistribution=USCA-SCOC-0026-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0027-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0027-0000&RinDistribution=USCA-SCOC-0027-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0028-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0028-0000&RinDistribution=USCA-SCOC-0028-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0029-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0029-0000&RinDistribution=USCA-SCOC-0029-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0030-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0030-0000&RinDistribution=USCA-SCOC-0030-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0031-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0031-0000&RinDistribution=USCA-SCOC-0031-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0032-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0032-0000&RinDistribution=USCA-SCOC-0032-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0033-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0033-0000&RinDistribution=USCA-SCOC-0033-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0034-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0034-0000&RinDistribution=USCA-SCOC-0034-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0035-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0035-0000&RinDistribution=USCA-SCOC-0035-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0036-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0036-0000&RinDistribution=USCA-SCOC-0036-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0037-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0037-0000&RinDistribution=USCA-SCOC-0037-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0038-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0038-0000&RinDistribution=USCA-SCOC-0038-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0039-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0039-0000&RinDistribution=USCA-SCOC-0039-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0040-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0040-0000&RinDistribution=USCA-SCOC-0040-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0041-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0041-0000&RinDistribution=USCA-SCOC-0041-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0042-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0042-0000&RinDistribution=USCA-SCOC-0042-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0043-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0043-0000&RinDistribution=USCA-SCOC-0043-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0044-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0044-0000&RinDistribution=USCA-SCOC-0044-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0045-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0045-0000&RinDistribution=USCA-SCOC-0045-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0046-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0046-0000&RinDistribution=USCA-SCOC-0046-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0047-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0047-0000&RinDistribution=USCA-SCOC-0047-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0048-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0048-0000&RinDistribution=USCA-SCOC-0048-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0049-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0049-0000&RinDistribution=USCA-SCOC-0049-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0050-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0050-0000&RinDistribution=USCA-SCOC-0050-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0051-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0051-0000&RinDistribution=USCA-SCOC-0051-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0052-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0052-0000&RinDistribution=USCA-SCOC-0052-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0053-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0053-0000&RinDistribution=USCA-SCOC-0053-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0054-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0054-0000&RinDistribution=USCA-SCOC-0054-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0055-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0055-0000&RinDistribution=USCA-SCOC-0055-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0056-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0056-0000&RinDistribution=USCA-SCOC-0056-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0057-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0057-0000&RinDistribution=USCA-SCOC-0057-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0058-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0058-0000&RinDistribution=USCA-SCOC-0058-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0059-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0059-0000&RinDistribution=USCA-SCOC-0059-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0060-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0060-0000&RinDistribution=USCA-SCOC-0060-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0061-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0061-0000&RinDistribution=USCA-SCOC-0061-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0062-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0062-0000&RinDistribution=USCA-SCOC-0062-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0063-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0063-0000&RinDistribution=USCA-SCOC-0063-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0064-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0064-0000&RinDistribution=USCA-SCOC-0064-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0065-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0065-0000&RinDistribution=USCA-SCOC-0065-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0066-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0066-0000&RinDistribution=USCA-SCOC-0066-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0067-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0067-0000&RinDistribution=USCA-SCOC-0067-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0068-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0068-0000&RinDistribution=USCA-SCOC-0068-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0069-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0069-0000&RinDistribution=USCA-SCOC-0069-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0070-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0070-0000&RinDistribution=USCA-SCOC-0070-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0071-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0071-0000&RinDistribution=USCA-SCOC-0071-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0072-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0072-0000&RinDistribution=USCA-SCOC-0072-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0073-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0073-0000&RinDistribution=USCA-SCOC-0073-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0074-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0074-0000&RinDistribution=USCA-SCOC-0074-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0075-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0075-0000&RinDistribution=USCA-SCOC-0075-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0076-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0076-0000&RinDistribution=USCA-SCOC-0076-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0077-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0077-0000&RinDistribution=USCA-SCOC-0077-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0078-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0078-0000&RinDistribution=USCA-SCOC-0078-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0079-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0079-0000&RinDistribution=USCA-SCOC-0079-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0080-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0080-0000&RinDistribution=USCA-SCOC-0080-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0081-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0081-0000&RinDistribution=USCA-SCOC-0081-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0082-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0082-0000&RinDistribution=USCA-SCOC-0082-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0083-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0083-0000&RinDistribution=USCA-SCOC-0083-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0084-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0084-0000&RinDistribution=USCA-SCOC-0084-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0085-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0085-0000&RinDistribution=USCA-SCOC-0085-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0086-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0086-0000&RinDistribution=USCA-SCOC-0086-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0087-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0087-0000&RinDistribution=USCA-SCOC-0087-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0088-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0088-0000&RinDistribution=USCA-SCOC-0088-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0089-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0089-0000&RinDistribution=USCA-SCOC-0089-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-0090-0000](/tools/dashboard?RinEnergy=USCA-SCOC-0090-0000&RinDistribution=USCA-SCOC-0090-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1001-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1001-0000&RinDistribution=USCA-SCOC-1001-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1002-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1002-0000&RinDistribution=USCA-SCOC-1002-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1005-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1005-0000&RinDistribution=USCA-SCOC-1005-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1008-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1008-0000&RinDistribution=USCA-SCOC-1008-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1009-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1009-0000&RinDistribution=USCA-SCOC-1009-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1010-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1010-0000&RinDistribution=USCA-SCOC-1010-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1011-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1011-0000&RinDistribution=USCA-SCOC-1011-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1012-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1012-0000&RinDistribution=USCA-SCOC-1012-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1013-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1013-0000&RinDistribution=USCA-SCOC-1013-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1014-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1014-0000&RinDistribution=USCA-SCOC-1014-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1015-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1015-0000&RinDistribution=USCA-SCOC-1015-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1016-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1016-0000&RinDistribution=USCA-SCOC-1016-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1017-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1017-0000&RinDistribution=USCA-SCOC-1017-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1018-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1018-0000&RinDistribution=USCA-SCOC-1018-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1019-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1019-0000&RinDistribution=USCA-SCOC-1019-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1020-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1020-0000&RinDistribution=USCA-SCOC-1020-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1021-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1021-0000&RinDistribution=USCA-SCOC-1021-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1022-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1022-0000&RinDistribution=USCA-SCOC-1022-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1023-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1023-0000&RinDistribution=USCA-SCOC-1023-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1024-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1024-0000&RinDistribution=USCA-SCOC-1024-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1025-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1025-0000&RinDistribution=USCA-SCOC-1025-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1026-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1026-0000&RinDistribution=USCA-SCOC-1026-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1027-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1027-0000&RinDistribution=USCA-SCOC-1027-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1028-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1028-0000&RinDistribution=USCA-SCOC-1028-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1029-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1029-0000&RinDistribution=USCA-SCOC-1029-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1030-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1030-0000&RinDistribution=USCA-SCOC-1030-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1031-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1031-0000&RinDistribution=USCA-SCOC-1031-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1032-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1032-0000&RinDistribution=USCA-SCOC-1032-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1033-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1033-0000&RinDistribution=USCA-SCOC-1033-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1034-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1034-0000&RinDistribution=USCA-SCOC-1034-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1035-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1035-0000&RinDistribution=USCA-SCOC-1035-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1036-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1036-0000&RinDistribution=USCA-SCOC-1036-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1037-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1037-0000&RinDistribution=USCA-SCOC-1037-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1038-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1038-0000&RinDistribution=USCA-SCOC-1038-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1039-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1039-0000&RinDistribution=USCA-SCOC-1039-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1040-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1040-0000&RinDistribution=USCA-SCOC-1040-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1041-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1041-0000&RinDistribution=USCA-SCOC-1041-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1042-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1042-0000&RinDistribution=USCA-SCOC-1042-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1043-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1043-0000&RinDistribution=USCA-SCOC-1043-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1044-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1044-0000&RinDistribution=USCA-SCOC-1044-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1045-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1045-0000&RinDistribution=USCA-SCOC-1045-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1046-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1046-0000&RinDistribution=USCA-SCOC-1046-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1047-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1047-0000&RinDistribution=USCA-SCOC-1047-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1048-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1048-0000&RinDistribution=USCA-SCOC-1048-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1049-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1049-0000&RinDistribution=USCA-SCOC-1049-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1050-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1050-0000&RinDistribution=USCA-SCOC-1050-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1051-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1051-0000&RinDistribution=USCA-SCOC-1051-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1052-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1052-0000&RinDistribution=USCA-SCOC-1052-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1053-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1053-0000&RinDistribution=USCA-SCOC-1053-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1054-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1054-0000&RinDistribution=USCA-SCOC-1054-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1055-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1055-0000&RinDistribution=USCA-SCOC-1055-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1056-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1056-0000&RinDistribution=USCA-SCOC-1056-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1057-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1057-0000&RinDistribution=USCA-SCOC-1057-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1058-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1058-0000&RinDistribution=USCA-SCOC-1058-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1059-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1059-0000&RinDistribution=USCA-SCOC-1059-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1060-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1060-0000&RinDistribution=USCA-SCOC-1060-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1061-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1061-0000&RinDistribution=USCA-SCOC-1061-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1062-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1062-0000&RinDistribution=USCA-SCOC-1062-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1063-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1063-0000&RinDistribution=USCA-SCOC-1063-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1064-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1064-0000&RinDistribution=USCA-SCOC-1064-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1065-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1065-0000&RinDistribution=USCA-SCOC-1065-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1066-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1066-0000&RinDistribution=USCA-SCOC-1066-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1067-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1067-0000&RinDistribution=USCA-SCOC-1067-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1068-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1068-0000&RinDistribution=USCA-SCOC-1068-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1069-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1069-0000&RinDistribution=USCA-SCOC-1069-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1070-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1070-0000&RinDistribution=USCA-SCOC-1070-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1071-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1071-0000&RinDistribution=USCA-SCOC-1071-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1072-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1072-0000&RinDistribution=USCA-SCOC-1072-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1073-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1073-0000&RinDistribution=USCA-SCOC-1073-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1074-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1074-0000&RinDistribution=USCA-SCOC-1074-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1075-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1075-0000&RinDistribution=USCA-SCOC-1075-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1076-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1076-0000&RinDistribution=USCA-SCOC-1076-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1077-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1077-0000&RinDistribution=USCA-SCOC-1077-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1078-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1078-0000&RinDistribution=USCA-SCOC-1078-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1079-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1079-0000&RinDistribution=USCA-SCOC-1079-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1080-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1080-0000&RinDistribution=USCA-SCOC-1080-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1081-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1081-0000&RinDistribution=USCA-SCOC-1081-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1082-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1082-0000&RinDistribution=USCA-SCOC-1082-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1083-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1083-0000&RinDistribution=USCA-SCOC-1083-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1084-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1084-0000&RinDistribution=USCA-SCOC-1084-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1085-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1085-0000&RinDistribution=USCA-SCOC-1085-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1086-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1086-0000&RinDistribution=USCA-SCOC-1086-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1087-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1087-0000&RinDistribution=USCA-SCOC-1087-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1088-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1088-0000&RinDistribution=USCA-SCOC-1088-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1089-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1089-0000&RinDistribution=USCA-SCOC-1089-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-1090-0000](/tools/dashboard?RinEnergy=USCA-SCOC-1090-0000&RinDistribution=USCA-SCOC-1090-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2001-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2001-0000&RinDistribution=USCA-SCOC-2001-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2002-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2002-0000&RinDistribution=USCA-SCOC-2002-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2005-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2005-0000&RinDistribution=USCA-SCOC-2005-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2008-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2008-0000&RinDistribution=USCA-SCOC-2008-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2009-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2009-0000&RinDistribution=USCA-SCOC-2009-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2010-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2010-0000&RinDistribution=USCA-SCOC-2010-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2011-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2011-0000&RinDistribution=USCA-SCOC-2011-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2012-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2012-0000&RinDistribution=USCA-SCOC-2012-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2013-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2013-0000&RinDistribution=USCA-SCOC-2013-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2014-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2014-0000&RinDistribution=USCA-SCOC-2014-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2015-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2015-0000&RinDistribution=USCA-SCOC-2015-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2016-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2016-0000&RinDistribution=USCA-SCOC-2016-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2017-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2017-0000&RinDistribution=USCA-SCOC-2017-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2018-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2018-0000&RinDistribution=USCA-SCOC-2018-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2019-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2019-0000&RinDistribution=USCA-SCOC-2019-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2020-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2020-0000&RinDistribution=USCA-SCOC-2020-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2021-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2021-0000&RinDistribution=USCA-SCOC-2021-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2022-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2022-0000&RinDistribution=USCA-SCOC-2022-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2023-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2023-0000&RinDistribution=USCA-SCOC-2023-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2024-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2024-0000&RinDistribution=USCA-SCOC-2024-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2025-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2025-0000&RinDistribution=USCA-SCOC-2025-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2026-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2026-0000&RinDistribution=USCA-SCOC-2026-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2027-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2027-0000&RinDistribution=USCA-SCOC-2027-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2028-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2028-0000&RinDistribution=USCA-SCOC-2028-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2029-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2029-0000&RinDistribution=USCA-SCOC-2029-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2030-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2030-0000&RinDistribution=USCA-SCOC-2030-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2031-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2031-0000&RinDistribution=USCA-SCOC-2031-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2032-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2032-0000&RinDistribution=USCA-SCOC-2032-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2033-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2033-0000&RinDistribution=USCA-SCOC-2033-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2034-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2034-0000&RinDistribution=USCA-SCOC-2034-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2035-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2035-0000&RinDistribution=USCA-SCOC-2035-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2036-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2036-0000&RinDistribution=USCA-SCOC-2036-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2037-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2037-0000&RinDistribution=USCA-SCOC-2037-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2038-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2038-0000&RinDistribution=USCA-SCOC-2038-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2039-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2039-0000&RinDistribution=USCA-SCOC-2039-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2040-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2040-0000&RinDistribution=USCA-SCOC-2040-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2041-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2041-0000&RinDistribution=USCA-SCOC-2041-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2042-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2042-0000&RinDistribution=USCA-SCOC-2042-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2043-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2043-0000&RinDistribution=USCA-SCOC-2043-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2044-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2044-0000&RinDistribution=USCA-SCOC-2044-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2045-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2045-0000&RinDistribution=USCA-SCOC-2045-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2046-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2046-0000&RinDistribution=USCA-SCOC-2046-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2047-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2047-0000&RinDistribution=USCA-SCOC-2047-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2048-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2048-0000&RinDistribution=USCA-SCOC-2048-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2049-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2049-0000&RinDistribution=USCA-SCOC-2049-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2050-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2050-0000&RinDistribution=USCA-SCOC-2050-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2051-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2051-0000&RinDistribution=USCA-SCOC-2051-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2052-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2052-0000&RinDistribution=USCA-SCOC-2052-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2053-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2053-0000&RinDistribution=USCA-SCOC-2053-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2054-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2054-0000&RinDistribution=USCA-SCOC-2054-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2055-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2055-0000&RinDistribution=USCA-SCOC-2055-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2056-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2056-0000&RinDistribution=USCA-SCOC-2056-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2057-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2057-0000&RinDistribution=USCA-SCOC-2057-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2058-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2058-0000&RinDistribution=USCA-SCOC-2058-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2059-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2059-0000&RinDistribution=USCA-SCOC-2059-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2060-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2060-0000&RinDistribution=USCA-SCOC-2060-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2061-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2061-0000&RinDistribution=USCA-SCOC-2061-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2062-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2062-0000&RinDistribution=USCA-SCOC-2062-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2063-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2063-0000&RinDistribution=USCA-SCOC-2063-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2064-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2064-0000&RinDistribution=USCA-SCOC-2064-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2065-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2065-0000&RinDistribution=USCA-SCOC-2065-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2066-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2066-0000&RinDistribution=USCA-SCOC-2066-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2067-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2067-0000&RinDistribution=USCA-SCOC-2067-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2068-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2068-0000&RinDistribution=USCA-SCOC-2068-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2069-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2069-0000&RinDistribution=USCA-SCOC-2069-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2070-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2070-0000&RinDistribution=USCA-SCOC-2070-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2071-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2071-0000&RinDistribution=USCA-SCOC-2071-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2072-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2072-0000&RinDistribution=USCA-SCOC-2072-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2073-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2073-0000&RinDistribution=USCA-SCOC-2073-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2074-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2074-0000&RinDistribution=USCA-SCOC-2074-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2075-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2075-0000&RinDistribution=USCA-SCOC-2075-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2076-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2076-0000&RinDistribution=USCA-SCOC-2076-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2077-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2077-0000&RinDistribution=USCA-SCOC-2077-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2078-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2078-0000&RinDistribution=USCA-SCOC-2078-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2079-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2079-0000&RinDistribution=USCA-SCOC-2079-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2080-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2080-0000&RinDistribution=USCA-SCOC-2080-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2081-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2081-0000&RinDistribution=USCA-SCOC-2081-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2082-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2082-0000&RinDistribution=USCA-SCOC-2082-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2083-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2083-0000&RinDistribution=USCA-SCOC-2083-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2084-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2084-0000&RinDistribution=USCA-SCOC-2084-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2085-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2085-0000&RinDistribution=USCA-SCOC-2085-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2086-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2086-0000&RinDistribution=USCA-SCOC-2086-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2087-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2087-0000&RinDistribution=USCA-SCOC-2087-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2088-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2088-0000&RinDistribution=USCA-SCOC-2088-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2089-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2089-0000&RinDistribution=USCA-SCOC-2089-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-2090-0000](/tools/dashboard?RinEnergy=USCA-SCOC-2090-0000&RinDistribution=USCA-SCOC-2090-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
+| SC | SC | [USCA-SCOC-TOU4-0000](/tools/dashboard?RinEnergy=USCA-SCOC-TOU4-0000&RinDistribution=USCA-SCOC-TOU4-0000) | Rate Data for Distributor: Southern California Edison, Energy Company: Orange County Power Authority |
