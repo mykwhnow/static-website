@@ -9,6 +9,8 @@ live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
 ---
 
+### Bundled Rates (LA)
+
 | Distribution | Energy | RIN | Name |
 |-------------|--------|-----|------|
 | LA | LA | [USCA-LALA-A000-0000](/tools/dashboard?RinEnergy=USCA-LALA-A000-0000&RinDistribution=USCA-LALA-A000-0000) | A1B |
@@ -3489,3 +3491,4 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | LA | LA | [USCA-LALA-R1B0-0000](/tools/dashboard?RinEnergy=USCA-LALA-R1B0-0000&RinDistribution=USCA-LALA-R1B0-0000) | Rate Data for Distributor: LADWP, Energy Company: LADWP |
 | LA | LA | [USCA-LALA-R1E0-0000](/tools/dashboard?RinEnergy=USCA-LALA-R1E0-0000&RinDistribution=USCA-LALA-R1E0-0000) | Rate Data for Distributor: LADWP, Energy Company: LADWP |
 | LA | LA | [USCA-LALA-TTOU-0000](/tools/dashboard?RinEnergy=USCA-LALA-TTOU-0000&RinDistribution=USCA-LALA-TTOU-0000) | Rate Data for Distributor: LADWP, Energy Company: LADWP |
+
