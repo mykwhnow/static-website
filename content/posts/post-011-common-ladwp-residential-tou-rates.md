@@ -1,7 +1,7 @@
 ﻿---
 title: "Common LA Residential TOU Rates"
 description: "List of RINs commonly found within LADWP (LA) operating area."
-date: "2026-02-09"
+date: "2026-02-14"
 author: "EB"
 tags: ["Rates", "LA", "RIN"]
 duration: "3 minutes read"

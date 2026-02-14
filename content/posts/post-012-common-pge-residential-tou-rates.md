@@ -1,7 +1,7 @@
 ﻿---
 title: "Common PG Residential TOU Rates"
 description: "List of RINs commonly found within Pacific Gas and Electric (PG) operating area."
-date: "2026-02-09"
+date: "2026-02-14"
 author: "EB"
 tags: ["Rates", "PG", "RIN"]
 duration: "3 minutes read"
@@ -36,10 +36,12 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGPG-2412-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2412-0000&RinDistribution=USCA-PGPG-2412-0000) | AG-CT |
 | PG | PG | [USCA-PGXX-2400-0000](/tools/dashboard?RinEnergy=USCA-PGXX-2400-0000&RinDistribution=USCA-PGXX-2400-0000) | AG-CT |
 | PG | PG | [USCA-PGPG-2500-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2500-0000&RinDistribution=USCA-PGPG-2500-0000) | AG-FAS |
+| PG | PG | [USCA-PGPG-2512-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2512-0000&RinDistribution=USCA-PGPG-2512-0000) | AG-FAS |
 | PG | PG | [USCA-PGXX-2500-0000](/tools/dashboard?RinEnergy=USCA-PGXX-2500-0000&RinDistribution=USCA-PGXX-2500-0000) | AG-FAS |
 | PG | PG | [USCA-PGPG-2700-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2700-0000&RinDistribution=USCA-PGPG-2700-0000) | AG-FBP |
 | PG | PG | [USCA-PGPG-2712-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2712-0000&RinDistribution=USCA-PGPG-2712-0000) | AG-FBP |
 | PG | PG | [USCA-PGXX-2700-0000](/tools/dashboard?RinEnergy=USCA-PGXX-2700-0000&RinDistribution=USCA-PGXX-2700-0000) | AG-FBP |
+| PG | PG | [USCA-PGPG-2600-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2600-0000&RinDistribution=USCA-PGPG-2600-0000) | AG-FBS |
 | PG | PG | [USCA-PGPG-2612-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2612-0000&RinDistribution=USCA-PGPG-2612-0000) | AG-FBS |
 | PG | PG | [USCA-PGXX-2600-0000](/tools/dashboard?RinEnergy=USCA-PGXX-2600-0000&RinDistribution=USCA-PGXX-2600-0000) | AG-FBS |
 | PG | PG | [USCA-PGPG-2800-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2800-0000&RinDistribution=USCA-PGPG-2800-0000) | AG-FBT |
@@ -60,7 +62,6 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGXX-0020-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0020-0000&RinDistribution=USCA-PGXX-0020-0000) | AGB |
 | PG | PG | [USCA-PGPG-0021-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0021-0000&RinDistribution=USCA-PGPG-0021-0000) | AGC |
 | PG | PG | [USCA-PGPG-0045-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0045-0000&RinDistribution=USCA-PGPG-0045-0000) | AGFA2 |
-| PG | PG | [USCA-PGPG-2600-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2600-0000&RinDistribution=USCA-PGPG-2600-0000) | AGFB1 |
 | PG | PG | [USCA-PGPG-0051-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0051-0000&RinDistribution=USCA-PGPG-0051-0000) | AGFC2 |
 | PG | PG | [USCA-PGXX-0052-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0052-0000&RinDistribution=USCA-PGXX-0052-0000) | AGFC3 |
 | PG | PG | [USCA-PGPG-0600-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0600-0000&RinDistribution=USCA-PGPG-0600-0000) | B-1 |
@@ -79,6 +80,7 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGPG-0812-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0812-0000&RinDistribution=USCA-PGPG-0812-0000) | B-10S |
 | PG | PG | [USCA-PGPG-0813-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0813-0000&RinDistribution=USCA-PGPG-0813-0000) | B-10S |
 | PG | PG | [USCA-PGPG-0814-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0814-0000&RinDistribution=USCA-PGPG-0814-0000) | B-10S |
+| PG | PG | [USCA-PGXX-0800-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0800-0000&RinDistribution=USCA-PGXX-0800-0000) | B-10S |
 | PG | PG | [USCA-PGXX-0813-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0813-0000&RinDistribution=USCA-PGXX-0813-0000) | B-10S |
 | PG | PG | [USCA-PGPG-1000-0000](/tools/dashboard?RinEnergy=USCA-PGPG-1000-0000&RinDistribution=USCA-PGPG-1000-0000) | B-10T |
 | PG | PG | [USCA-PGPG-1012-0000](/tools/dashboard?RinEnergy=USCA-PGPG-1012-0000&RinDistribution=USCA-PGPG-1012-0000) | B-10T |
@@ -132,7 +134,6 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGXX-0006-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0006-0000&RinDistribution=USCA-PGXX-0006-0000) | B1 |
 | PG | PG | [USCA-PGPG-0010-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0010-0000&RinDistribution=USCA-PGPG-0010-0000) | B10P |
 | PG | PG | [USCA-PGPG-0009-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0009-0000&RinDistribution=USCA-PGPG-0009-0000) | B10S |
-| PG | PG | [USCA-PGXX-0800-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0800-0000&RinDistribution=USCA-PGXX-0800-0000) | B10S |
 | PG | PG | [USCA-PGPG-0058-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0058-0000&RinDistribution=USCA-PGPG-0058-0000) | B10SPDP |
 | PG | PG | [USCA-PGXX-0011-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0011-0000&RinDistribution=USCA-PGXX-0011-0000) | B10T |
 | PG | PG | [USCA-PGPG-0012-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0012-0000&RinDistribution=USCA-PGPG-0012-0000) | B19S |
@@ -171,15 +172,57 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGPG-0510-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0510-0000&RinDistribution=USCA-PGPG-0510-0000) | E-ELEC |
 | PG | PG | [USCA-PGPG-0511-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0511-0000&RinDistribution=USCA-PGPG-0511-0000) | E-ELEC |
 | PG | PG | [USCA-PGPG-3500-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3500-0000&RinDistribution=USCA-PGPG-3500-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3501-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3501-0000&RinDistribution=USCA-PGPG-3501-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3502-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3502-0000&RinDistribution=USCA-PGPG-3502-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3503-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3503-0000&RinDistribution=USCA-PGPG-3503-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3504-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3504-0000&RinDistribution=USCA-PGPG-3504-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3505-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3505-0000&RinDistribution=USCA-PGPG-3505-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3506-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3506-0000&RinDistribution=USCA-PGPG-3506-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3507-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3507-0000&RinDistribution=USCA-PGPG-3507-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3508-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3508-0000&RinDistribution=USCA-PGPG-3508-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3509-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3509-0000&RinDistribution=USCA-PGPG-3509-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3510-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3510-0000&RinDistribution=USCA-PGPG-3510-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3511-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3511-0000&RinDistribution=USCA-PGPG-3511-0000) | E-ELEC |
 | PG | PG | [USCA-PGPG-3600-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3600-0000&RinDistribution=USCA-PGPG-3600-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3601-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3601-0000&RinDistribution=USCA-PGPG-3601-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3602-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3602-0000&RinDistribution=USCA-PGPG-3602-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3603-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3603-0000&RinDistribution=USCA-PGPG-3603-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3604-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3604-0000&RinDistribution=USCA-PGPG-3604-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3605-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3605-0000&RinDistribution=USCA-PGPG-3605-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3606-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3606-0000&RinDistribution=USCA-PGPG-3606-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3607-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3607-0000&RinDistribution=USCA-PGPG-3607-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3608-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3608-0000&RinDistribution=USCA-PGPG-3608-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3609-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3609-0000&RinDistribution=USCA-PGPG-3609-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3610-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3610-0000&RinDistribution=USCA-PGPG-3610-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3611-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3611-0000&RinDistribution=USCA-PGPG-3611-0000) | E-ELEC |
 | PG | PG | [USCA-PGPG-3700-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3700-0000&RinDistribution=USCA-PGPG-3700-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3701-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3701-0000&RinDistribution=USCA-PGPG-3701-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3702-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3702-0000&RinDistribution=USCA-PGPG-3702-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3703-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3703-0000&RinDistribution=USCA-PGPG-3703-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3704-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3704-0000&RinDistribution=USCA-PGPG-3704-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3705-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3705-0000&RinDistribution=USCA-PGPG-3705-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3706-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3706-0000&RinDistribution=USCA-PGPG-3706-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3707-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3707-0000&RinDistribution=USCA-PGPG-3707-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3708-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3708-0000&RinDistribution=USCA-PGPG-3708-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3709-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3709-0000&RinDistribution=USCA-PGPG-3709-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3710-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3710-0000&RinDistribution=USCA-PGPG-3710-0000) | E-ELEC |
+| PG | PG | [USCA-PGPG-3711-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3711-0000&RinDistribution=USCA-PGPG-3711-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-0500-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0500-0000&RinDistribution=USCA-PGXX-0500-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-0502-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0502-0000&RinDistribution=USCA-PGXX-0502-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-0503-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0503-0000&RinDistribution=USCA-PGXX-0503-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-0504-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0504-0000&RinDistribution=USCA-PGXX-0504-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-3500-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3500-0000&RinDistribution=USCA-PGXX-3500-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3502-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3502-0000&RinDistribution=USCA-PGXX-3502-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3503-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3503-0000&RinDistribution=USCA-PGXX-3503-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3504-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3504-0000&RinDistribution=USCA-PGXX-3504-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-3600-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3600-0000&RinDistribution=USCA-PGXX-3600-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3602-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3602-0000&RinDistribution=USCA-PGXX-3602-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3603-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3603-0000&RinDistribution=USCA-PGXX-3603-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3604-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3604-0000&RinDistribution=USCA-PGXX-3604-0000) | E-ELEC |
 | PG | PG | [USCA-PGXX-3700-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3700-0000&RinDistribution=USCA-PGXX-3700-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3702-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3702-0000&RinDistribution=USCA-PGXX-3702-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3703-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3703-0000&RinDistribution=USCA-PGXX-3703-0000) | E-ELEC |
+| PG | PG | [USCA-PGXX-3704-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3704-0000&RinDistribution=USCA-PGXX-3704-0000) | E-ELEC |
 | PG | PG | [USCA-PGPG-0100-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0100-0000&RinDistribution=USCA-PGPG-0100-0000) | E-TOU-C |
 | PG | PG | [USCA-PGPG-0101-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0101-0000&RinDistribution=USCA-PGPG-0101-0000) | E-TOU-C |
 | PG | PG | [USCA-PGPG-0102-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0102-0000&RinDistribution=USCA-PGPG-0102-0000) | E-TOU-C |
@@ -220,6 +263,7 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGPG-0307-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0307-0000&RinDistribution=USCA-PGPG-0307-0000) | EV-B |
 | PG | PG | [USCA-PGXX-0300-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0300-0000&RinDistribution=USCA-PGXX-0300-0000) | EV-B |
 | PG | PG | [USCA-PGXX-0313-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0313-0000&RinDistribution=USCA-PGXX-0313-0000) | EV-B |
+| PG | PG | [USCA-PGPG-0404-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0404-0000&RinDistribution=USCA-PGPG-0404-0000) | EV2-A |
 | PG | PG | [USCA-PGPG-0400-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0400-0000&RinDistribution=USCA-PGPG-0400-0000) | EV2-A  |
 | PG | PG | [USCA-PGPG-0401-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0401-0000&RinDistribution=USCA-PGPG-0401-0000) | EV2-A  |
 | PG | PG | [USCA-PGPG-0402-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0402-0000&RinDistribution=USCA-PGPG-0402-0000) | EV2-A  |
@@ -229,6 +273,7 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGXX-0400-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0400-0000&RinDistribution=USCA-PGXX-0400-0000) | EV2-A  |
 | PG | PG | [USCA-PGXX-0402-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0402-0000&RinDistribution=USCA-PGXX-0402-0000) | EV2-A  |
 | PG | PG | [USCA-PGXX-0403-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0403-0000&RinDistribution=USCA-PGXX-0403-0000) | EV2-A  |
+| PG | PG | [USCA-PGXX-0404-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0404-0000&RinDistribution=USCA-PGXX-0404-0000) | EV2-A  |
 | PG | PG | [USCA-PGPG-0003-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0003-0000&RinDistribution=USCA-PGPG-0003-0000) | EV2A |
 | PG | PG | [USCA-PGXX-0003-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0003-0000&RinDistribution=USCA-PGXX-0003-0000) | EV2A |
 | PG | PG | [USCA-PGPG-0004-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0004-0000&RinDistribution=USCA-PGPG-0004-0000) | EVB |
@@ -529,46 +574,11 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGPG-0075-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0075-0000&RinDistribution=USCA-PGPG-0075-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0077-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0077-0000&RinDistribution=USCA-PGPG-0077-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0079-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0079-0000&RinDistribution=USCA-PGPG-0079-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-0404-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0404-0000&RinDistribution=USCA-PGPG-0404-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0405-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0405-0000&RinDistribution=USCA-PGPG-0405-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0408-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0408-0000&RinDistribution=USCA-PGPG-0408-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0409-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0409-0000&RinDistribution=USCA-PGPG-0409-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0410-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0410-0000&RinDistribution=USCA-PGPG-0410-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-0411-0000](/tools/dashboard?RinEnergy=USCA-PGPG-0411-0000&RinDistribution=USCA-PGPG-0411-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-2512-0000](/tools/dashboard?RinEnergy=USCA-PGPG-2512-0000&RinDistribution=USCA-PGPG-2512-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3501-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3501-0000&RinDistribution=USCA-PGPG-3501-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3502-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3502-0000&RinDistribution=USCA-PGPG-3502-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3503-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3503-0000&RinDistribution=USCA-PGPG-3503-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3504-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3504-0000&RinDistribution=USCA-PGPG-3504-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3505-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3505-0000&RinDistribution=USCA-PGPG-3505-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3506-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3506-0000&RinDistribution=USCA-PGPG-3506-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3507-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3507-0000&RinDistribution=USCA-PGPG-3507-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3508-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3508-0000&RinDistribution=USCA-PGPG-3508-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3509-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3509-0000&RinDistribution=USCA-PGPG-3509-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3510-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3510-0000&RinDistribution=USCA-PGPG-3510-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3511-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3511-0000&RinDistribution=USCA-PGPG-3511-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3601-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3601-0000&RinDistribution=USCA-PGPG-3601-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3602-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3602-0000&RinDistribution=USCA-PGPG-3602-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3603-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3603-0000&RinDistribution=USCA-PGPG-3603-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3604-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3604-0000&RinDistribution=USCA-PGPG-3604-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3605-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3605-0000&RinDistribution=USCA-PGPG-3605-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3606-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3606-0000&RinDistribution=USCA-PGPG-3606-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3607-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3607-0000&RinDistribution=USCA-PGPG-3607-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3608-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3608-0000&RinDistribution=USCA-PGPG-3608-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3609-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3609-0000&RinDistribution=USCA-PGPG-3609-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3610-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3610-0000&RinDistribution=USCA-PGPG-3610-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3611-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3611-0000&RinDistribution=USCA-PGPG-3611-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3701-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3701-0000&RinDistribution=USCA-PGPG-3701-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3702-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3702-0000&RinDistribution=USCA-PGPG-3702-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3703-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3703-0000&RinDistribution=USCA-PGPG-3703-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3704-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3704-0000&RinDistribution=USCA-PGPG-3704-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3705-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3705-0000&RinDistribution=USCA-PGPG-3705-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3706-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3706-0000&RinDistribution=USCA-PGPG-3706-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3707-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3707-0000&RinDistribution=USCA-PGPG-3707-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3708-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3708-0000&RinDistribution=USCA-PGPG-3708-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3709-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3709-0000&RinDistribution=USCA-PGPG-3709-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3710-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3710-0000&RinDistribution=USCA-PGPG-3710-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
-| PG | PG | [USCA-PGPG-3711-0000](/tools/dashboard?RinEnergy=USCA-PGPG-3711-0000&RinDistribution=USCA-PGPG-3711-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-AGCP-0000](/tools/dashboard?RinEnergy=USCA-PGPG-AGCP-0000&RinDistribution=USCA-PGPG-AGCP-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-B19S-0000](/tools/dashboard?RinEnergy=USCA-PGPG-B19S-0000&RinDistribution=USCA-PGPG-B19S-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
 | PG | PG | [USCA-PGPG-B20P-0000](/tools/dashboard?RinEnergy=USCA-PGPG-B20P-0000&RinDistribution=USCA-PGPG-B20P-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Pacific Gas and Electric |
@@ -2605,14 +2615,4 @@ coverUrl: "/content/images/mykwhnow_qr.svg"
 | PG | PG | [USCA-PGXX-0050-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0050-0000&RinDistribution=USCA-PGXX-0050-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
 | PG | PG | [USCA-PGXX-0051-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0051-0000&RinDistribution=USCA-PGXX-0051-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
 | PG | PG | [USCA-PGXX-0071-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0071-0000&RinDistribution=USCA-PGXX-0071-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-0404-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0404-0000&RinDistribution=USCA-PGXX-0404-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
 | PG | PG | [USCA-PGXX-0408-0000](/tools/dashboard?RinEnergy=USCA-PGXX-0408-0000&RinDistribution=USCA-PGXX-0408-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3502-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3502-0000&RinDistribution=USCA-PGXX-3502-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3503-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3503-0000&RinDistribution=USCA-PGXX-3503-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3504-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3504-0000&RinDistribution=USCA-PGXX-3504-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3602-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3602-0000&RinDistribution=USCA-PGXX-3602-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3603-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3603-0000&RinDistribution=USCA-PGXX-3603-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3604-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3604-0000&RinDistribution=USCA-PGXX-3604-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3702-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3702-0000&RinDistribution=USCA-PGXX-3702-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3703-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3703-0000&RinDistribution=USCA-PGXX-3703-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
-| PG | PG | [USCA-PGXX-3704-0000](/tools/dashboard?RinEnergy=USCA-PGXX-3704-0000&RinDistribution=USCA-PGXX-3704-0000) | Rate Data for Distributor: Pacific Gas and Electric, Energy Company: Unspecified |
