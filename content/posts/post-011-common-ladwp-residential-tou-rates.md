@@ -1,7 +1,7 @@
 ﻿---
 title: "Common LA Residential TOU Rates"
 description: "List of RINs commonly found within LADWP (LA) operating area."
-date: "2026-02-14"
+date: "2026-02-15"
 author: "EB"
 tags: ["Rates", "LA", "RIN"]
 duration: "3 minutes read"
@@ -9,7 +9,11 @@ live: true
 coverUrl: "/content/images/mykwhnow_qr.svg"
 ---
 
-### Bundled Rates (LA)
+## Contents
+
+- [Bundled Rates - LADWP (LA)](#bundled-rates---ladwp-la) (3478 rates)
+
+### Bundled Rates - LADWP (LA)
 
 | Distribution | Energy | RIN | Name |
 |-------------|--------|-----|------|
